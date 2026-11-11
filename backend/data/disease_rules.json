@@ -1,0 +1,252 @@
+{
+  "type_2_diabetes": {
+    "nutrient_limits": {
+      "sugar": { "max": 5, "unit": "g" },
+      "sodium": { "max": 480, "unit": "mg" },
+      "calories": { "max": 250, "unit": "kcal" }
+    },
+    "avoid_ingredients": ["sugar", "high fructose corn syrup", "glucose syrup", "maltodextrin", "dextrose", "honey"],
+    "recommended_ingredients": ["fiber", "whole grains", "oats", "quinoa", "lentils", "cinnamon"],
+    "severity_levels": {
+      "low": "Acceptable for occasional consumption.",
+      "medium": "Monitor blood glucose levels after consumption.",
+      "high": "High glycemic impact; strictly avoid this product."
+    }
+  },
+  "prediabetes": {
+    "nutrient_limits": {
+      "sugar": { "max": 8, "unit": "g" },
+      "sodium": { "max": 600, "unit": "mg" },
+      "calories": { "max": 300, "unit": "kcal" }
+    },
+    "avoid_ingredients": ["refined sugar", "corn syrup", "white flour", "artificial sweeteners"],
+    "recommended_ingredients": ["whole grains", "leafy greens", "avocados", "nuts", "seeds"],
+    "severity_levels": {
+      "low": "Safe for regular consumption in moderation.",
+      "medium": "Limit intake to prevent progression to diabetes.",
+      "high": "Likely to cause significant glucose spikes."
+    }
+  },
+  "metabolic_syndrome": {
+    "nutrient_limits": {
+      "sugar": { "max": 6, "unit": "g" },
+      "sodium": { "max": 400, "unit": "mg" },
+      "saturated_fat": { "max": 2, "unit": "g" }
+    },
+    "avoid_ingredients": ["trans fats", "refined carbs", "processed meats", "sugary drinks", "salt"],
+    "recommended_ingredients": ["omega-3 rich foods", "fiber", "extra virgin olive oil", "berries", "legumes"],
+    "severity_levels": {
+      "low": "Heart and glucose friendly.",
+      "medium": "Contains ingredients detrimental to metabolic health.",
+      "high": "High risk for exacerbating multiple metabolic conditions."
+    }
+  },
+  "chronic_kidney_disease": {
+    "nutrient_limits": {
+      "sodium": { "max": 200, "unit": "mg" },
+      "protein": { "max": 10, "unit": "g" },
+      "sugar": { "max": 12, "unit": "g" }
+    },
+    "avoid_ingredients": ["potassium chloride", "phosphoric acid", "sodium phosphate", "dark sodas", "canned soups"],
+    "recommended_ingredients": ["egg whites", "cauliflower", "red bell peppers", "garlic", "onions", "buckwheat"],
+    "severity_levels": {
+      "low": "Renal-safe composition.",
+      "medium": "Monitor intake of phosphorus and potassium.",
+      "high": "Dangerous levels of minerals for weakened kidneys."
+    }
+  },
+  "hypertension": {
+    "nutrient_limits": {
+      "sodium": { "max": 140, "unit": "mg" },
+      "saturated_fat": { "max": 2, "unit": "g" },
+      "cholesterol": { "max": 20, "unit": "mg" }
+    },
+    "avoid_ingredients": ["salt", "monosodium glutamate", "sodium nitrate", "baking powder", "soy sauce"],
+    "recommended_ingredients": ["potassium", "magnesium", "garlic", "flaxseeds", "beets", "celery"],
+    "severity_levels": {
+      "low": "Low sodium; safe for blood pressure management.",
+      "medium": "Check daily sodium quota before consuming.",
+      "high": "Significant risk of blood pressure elevation."
+    }
+  },
+  "coronary_artery_disease": {
+    "nutrient_limits": {
+      "saturated_fat": { "max": 1, "unit": "g" },
+      "cholesterol": { "max": 20, "unit": "mg" },
+      "sodium": { "max": 300, "unit": "mg" }
+    },
+    "avoid_ingredients": ["lard", "shortening", "palm oil", "trans fats", "coconut oil", "butter"],
+    "recommended_ingredients": ["fatty fish", "walnuts", "oatmeal", "flaxseed oil", "dark chocolate (>70%)", "spinach"],
+    "severity_levels": {
+      "low": "Cardio-protective profile.",
+      "medium": "Moderate fat/sodium; use with caution.",
+      "high": "Promotes arterial blockage; avoid."
+    }
+  },
+  "hyperlipidemia": {
+    "nutrient_limits": {
+      "cholesterol": { "max": 10, "unit": "mg" },
+      "saturated_fat": { "max": 1, "unit": "g" },
+      "sugar": { "max": 10, "unit": "g" }
+    },
+    "avoid_ingredients": ["whole milk", "heavy cream", "egg yolks", "grease", "duck fat", "organ meats"],
+    "recommended_ingredients": ["plant sterols", "psyllium husk", "barley", "beans", "apples", "soy"],
+    "severity_levels": {
+      "low": "Helps maintain healthy lipid levels.",
+      "medium": "May moderately increase LDL levels.",
+      "high": "Strongly elevates cholesterol; high risk."
+    }
+  },
+  "anemia": {
+    "nutrient_limits": {
+      "sugar": { "max": 15, "unit": "g" },
+      "sodium": { "max": 600, "unit": "mg" },
+      "fat": { "max": 12, "unit": "g" }
+    },
+    "avoid_ingredients": ["tannins", "oxalates", "excessive caffeine", "calcium carbonate", "black tea"],
+    "recommended_ingredients": ["iron", "vitamin C", "vitamin B12", "folate", "lean red meat", "spinach"],
+    "severity_levels": {
+      "low": "Supports healthy red blood cell production.",
+      "medium": "Low nutritional density for iron enrichment.",
+      "high": "Inhibits iron absorption; detrimental for anemia."
+    }
+  },
+  "iron_deficiency": {
+    "nutrient_limits": {
+      "sugar": { "max": 10, "unit": "g" },
+      "sodium": { "max": 500, "unit": "mg" }
+    },
+    "avoid_ingredients": ["phytates", "polyphenols", "coffee", "tea", "soy protein isolates"],
+    "recommended_ingredients": ["heme iron", "vitamin C", "lemons", "citrus fruits", "unlocked nuts", "seeds"],
+    "severity_levels": {
+      "low": "Iron-absorption friendly.",
+      "medium": "Check for iron inhibitors in ingredients.",
+      "high": "Blocks iron bioavailability; avoid."
+    }
+  },
+  "obesity": {
+    "nutrient_limits": {
+      "calories": { "max": 150, "unit": "kcal" },
+      "fat": { "max": 5, "unit": "g" },
+      "sugar": { "max": 5, "unit": "g" }
+    },
+    "avoid_ingredients": ["refined oils", "artificial additives", "high calorie sweeteners", "white rice", "refined flour"],
+    "recommended_ingredients": ["high fiber foods", "lean protein", "apple pectin", "konjac", "green tea", "water"],
+    "severity_levels": {
+      "low": "Weight-management safe.",
+      "medium": "Calorically dense; monitor serving size.",
+      "high": "Extremely high in energy/fat; high weight gain risk."
+    }
+  },
+  "fatty_liver_disease": {
+    "nutrient_limits": {
+      "sugar": { "max": 4, "unit": "g" },
+      "saturated_fat": { "max": 2, "unit": "g" },
+      "calories": { "max": 200, "unit": "kcal" }
+    },
+    "avoid_ingredients": ["fructose", "sucrose", "maltose", "alcohol-derived flavors", "trans fats", "refined grains"],
+    "recommended_ingredients": ["turmeric", "broccoli", "walnuts", "tofu", "green leafy vegetables", "coffee"],
+    "severity_levels": {
+      "low": "Liver-protective composition.",
+      "medium": "Moderate refined carbs/fats; use sparingly.",
+      "high": "Directly promotes liver fat buildup; avoid."
+    }
+  },
+  "chronic_liver_disease": {
+    "nutrient_limits": {
+      "sodium": { "max": 100, "unit": "mg" },
+      "sugar": { "max": 8, "unit": "g" },
+      "protein": { "max": 12, "unit": "g" }
+    },
+    "avoid_ingredients": ["alcohol", "raw shellfish extracts", "excessive vitamin A", "high sodium additives", "preservatives"],
+    "recommended_ingredients": ["easy to digest proteins", "oatmeal", "yogurt", "garlic", "lemons", "ginger"],
+    "severity_levels": {
+      "low": "Gentle on liver function.",
+      "medium": "May cause metabolic stress on the liver.",
+      "high": "Severe toxic load for impaired liver; strictly avoid."
+    }
+  },
+  "hypothyroidism": {
+    "nutrient_limits": {
+      "sugar": { "max": 10, "unit": "g" },
+      "sodium": { "max": 500, "unit": "mg" },
+      "saturated_fat": { "max": 3, "unit": "g" }
+    },
+    "avoid_ingredients": ["raw goitrogens", "soy isolates", "processed fluoride", "refined sugars", "excessive gluten"],
+    "recommended_ingredients": ["selenium", "zinc", "iodine (regulated)", "brazil nuts", "seaweed", "berries"],
+    "severity_levels": {
+      "low": "Metabolism-friendly.",
+      "medium": "Low nutrient density; may feel lethargic.",
+      "high": "Slows metabolism further with heavy processed content."
+    }
+  },
+  "hyperthyroidism": {
+    "nutrient_limits": {
+      "sugar": { "max": 15, "unit": "g" },
+      "caffeine": { "max": 0, "unit": "mg" },
+      "sodium": { "max": 400, "unit": "mg" }
+    },
+    "avoid_ingredients": ["caffeine", "excessive iodine", "refined sugars", "artificial stimulants", "iodized salt"],
+    "recommended_ingredients": ["cruciferous vegetables", "calcium", "vitamin D", "iron", "antioxidant-rich fruits"],
+    "severity_levels": {
+      "low": "Safe for thyroid stability.",
+      "medium": "May increase heart rate or anxiety.",
+      "high": "Contains iodine/stimulants that worsen symptoms."
+    }
+  },
+  "gout": {
+    "nutrient_limits": {
+      "sodium": { "max": 300, "unit": "mg" },
+      "sugar": { "max": 5, "unit": "g" },
+      "calories": { "max": 300, "unit": "kcal" }
+    },
+    "avoid_ingredients": ["high fructose corn syrup", "yeast extract", "alcohol", "purine-rich additives", "processed seafood"],
+    "recommended_ingredients": ["cherries", "vitamin C", "low-fat dairy", "celery", "complex carbohydrates", "water"],
+    "severity_levels": {
+      "low": "Low purine and uric acid safe.",
+      "medium": "Check for hidden purines or high fructose.",
+      "high": "High risk of gout flare-up; strictly avoid."
+    }
+  },
+  "osteoporosis": {
+    "nutrient_limits": {
+      "sodium": { "max": 250, "unit": "mg" },
+      "sugar": { "max": 10, "unit": "g" },
+      "caffeine": { "max": 50, "unit": "mg" }
+    },
+    "avoid_ingredients": ["excessive salt", "phosphoric acid", "diet sodas", "alcohol", "caffeine isolates"],
+    "recommended_ingredients": ["calcium", "vitamin D", "vitamin K2", "kale", "collagen", "almonds"],
+    "severity_levels": {
+      "low": "Supports bone density.",
+      "medium": "Contains bone-leaching minerals/ingredients.",
+      "high": "Highly detrimental to skeletal health."
+    }
+  },
+  "polycystic_ovary_syndrome_pcos": {
+    "nutrient_limits": {
+      "sugar": { "max": 4, "unit": "g" },
+      "saturated_fat": { "max": 2, "unit": "g" },
+      "calories": { "max": 250, "unit": "kcal" }
+    },
+    "avoid_ingredients": ["refined carbs", "sugary cereals", "soy protein", "artificial sweeteners", "dairy (if sensitive)"],
+    "recommended_ingredients": ["inositol", "cinnamon", "spearmint", "high fiber seeds", "avocado", "broccoli"],
+    "severity_levels": {
+      "low": "Hormone-balanced and insulin-safe.",
+      "medium": "May impact insulin sensitivity.",
+      "high": "Likely to trigger insulin and hormone imbalances."
+    }
+  },
+  "vitamin_d_deficiency": {
+    "nutrient_limits": {
+      "sugar": { "max": 12, "unit": "g" },
+      "fat": { "max": 15, "unit": "g" }
+    },
+    "avoid_ingredients": ["excessive trans fats", "ultra-processed foods", "high sugar additives"],
+    "recommended_ingredients": ["vitamin D3", "healthy fats", "cod liver oil", "fortified milk", "mushrooms", "egg yolks"],
+    "severity_levels": {
+      "low": "Balanced for nutrient absorption.",
+      "medium": "Lacks supportive fats for D3 absorption.",
+      "high": "Nutrient-poor; provide no support for bone/immune health."
+    }
+  }
+}

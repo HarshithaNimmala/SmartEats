@@ -1,0 +1,201 @@
+{
+  "hba1c": [
+    { "min": 0, "max": 5.6, "label": "normal", "diseases": ["Type 2 Diabetes", "Prediabetes"], "priority": "critical" },
+    { "min": 5.7, "max": 6.4, "label": "prediabetes", "diseases": ["Type 2 Diabetes", "Prediabetes"], "priority": "critical" },
+    { "min": 6.5, "max": 25, "label": "diabetes", "diseases": ["Type 2 Diabetes"], "priority": "critical" }
+  ],
+  "fasting_glucose": [
+    { "min": 0, "max": 99, "label": "normal", "diseases": ["Type 2 Diabetes", "Prediabetes", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 100, "max": 125, "label": "prediabetes", "diseases": ["Type 2 Diabetes", "Prediabetes", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 126, "max": 1000, "label": "diabetes", "diseases": ["Type 2 Diabetes"], "priority": "critical" }
+  ],
+  "postprandial_glucose": [
+    { "min": 0, "max": 139, "label": "normal", "diseases": ["Type 2 Diabetes"], "priority": "critical" },
+    { "min": 140, "max": 199, "label": "prediabetes", "diseases": ["Type 2 Diabetes"], "priority": "critical" },
+    { "min": 200, "max": 1000, "label": "diabetes", "diseases": ["Type 2 Diabetes"], "priority": "critical" }
+  ],
+  "fasting_insulin": [
+    { "min": 2, "max": 25, "label": "normal", "diseases": ["Type 2 Diabetes"], "priority": "important" }
+  ],
+  "c_peptide": [
+    { "min": 0.5, "max": 2.0, "label": "normal", "diseases": ["Type 2 Diabetes"], "priority": "supportive" }
+  ],
+  "egfr": [
+    { "min": 60, "max": 200, "label": "normal", "diseases": ["Type 2 Diabetes", "Chronic Kidney Disease"], "priority": "supportive" },
+    { "min": 0, "max": 59, "label": "low", "diseases": ["Chronic Kidney Disease"], "priority": "critical" }
+  ],
+  "systolic_bp": [
+    { "min": 0, "max": 119, "label": "normal", "diseases": ["Hypertension", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 120, "max": 129, "label": "elevated", "diseases": ["Hypertension", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 130, "max": 139, "label": "stage 1", "diseases": ["Hypertension", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 140, "max": 300, "label": "stage 2", "diseases": ["Hypertension", "Metabolic Syndrome"], "priority": "critical" }
+  ],
+  "diastolic_bp": [
+    { "min": 0, "max": 79, "label": "normal", "diseases": ["Hypertension", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 80, "max": 89, "label": "stage 1", "diseases": ["Hypertension", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 90, "max": 200, "label": "stage 2", "diseases": ["Hypertension", "Metabolic Syndrome"], "priority": "critical" }
+  ],
+  "sodium": [
+    { "min": 136, "max": 145, "label": "normal", "diseases": ["Hypertension"], "priority": "important" }
+  ],
+  "potassium": [
+    { "min": 3.5, "max": 5.1, "label": "normal", "diseases": ["Hypertension"], "priority": "important" }
+  ],
+  "creatinine": [
+    { "min": 0.7, "max": 1.3, "label": "normal", "diseases": ["Hypertension", "Chronic Kidney Disease"], "priority": "supportive" },
+    { "min": 1.4, "max": 15, "label": "high", "diseases": ["Chronic Kidney Disease"], "priority": "critical" }
+  ],
+  "acr": [
+    { "min": 0, "max": 29, "label": "normal", "diseases": ["Hypertension", "Chronic Kidney Disease"], "priority": "supportive" },
+    { "min": 30, "max": 300, "label": "microalbuminuria", "diseases": ["Chronic Kidney Disease"], "priority": "important" },
+    { "min": 301, "max": 10000, "label": "macroalbuminuria", "diseases": ["Chronic Kidney Disease"], "priority": "critical" }
+  ],
+  "ldl": [
+    { "min": 0, "max": 69, "label": "optimal", "diseases": ["Coronary Artery Disease", "Hyperlipidemia"], "priority": "critical" },
+    { "min": 70, "max": 99, "label": "near optimal", "diseases": ["Coronary Artery Disease", "Hyperlipidemia"], "priority": "critical" },
+    { "min": 100, "max": 129, "label": "borderline high", "diseases": ["Hyperlipidemia"], "priority": "critical" },
+    { "min": 130, "max": 159, "label": "high", "diseases": ["Hyperlipidemia"], "priority": "critical" },
+    { "min": 160, "max": 500, "label": "very high", "diseases": ["Hyperlipidemia"], "priority": "critical" }
+  ],
+  "total_cholesterol": [
+    { "min": 0, "max": 199, "label": "desirable", "diseases": ["Coronary Artery Disease", "Hyperlipidemia"], "priority": "critical" },
+    { "min": 200, "max": 239, "label": "borderline high", "diseases": ["Coronary Artery Disease", "Hyperlipidemia"], "priority": "critical" },
+    { "min": 240, "max": 1000, "label": "high", "diseases": ["Coronary Artery Disease", "Hyperlipidemia"], "priority": "critical" }
+  ],
+  "hdl": [
+    { "min": 0, "max": 39, "label": "low", "diseases": ["Coronary Artery Disease", "Hyperlipidemia", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 40, "max": 59, "label": "normal", "diseases": ["Coronary Artery Disease", "Hyperlipidemia", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 60, "max": 200, "label": "high (protective)", "diseases": ["Coronary Artery Disease", "Hyperlipidemia", "Metabolic Syndrome"], "priority": "critical" }
+  ],
+  "triglycerides": [
+    { "min": 0, "max": 149, "label": "normal", "diseases": ["Coronary Artery Disease", "Hyperlipidemia", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 150, "max": 199, "label": "borderline high", "diseases": ["Coronary Artery Disease", "Hyperlipidemia", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 200, "max": 499, "label": "high", "diseases": ["Coronary Artery Disease", "Hyperlipidemia", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 500, "max": 5000, "label": "very high", "diseases": ["Coronary Artery Disease", "Hyperlipidemia"], "priority": "critical" }
+  ],
+  "hs_crp": [
+    { "min": 0, "max": 1.0, "label": "low risk", "diseases": ["Coronary Artery Disease"], "priority": "important" },
+    { "min": 1.1, "max": 3.0, "label": "average risk", "diseases": ["Coronary Artery Disease"], "priority": "important" },
+    { "min": 3.1, "max": 100, "label": "high risk", "diseases": ["Coronary Artery Disease"], "priority": "important" }
+  ],
+  "non_hdl": [
+    { "min": 0, "max": 129, "label": "optimal", "diseases": ["Coronary Artery Disease"], "priority": "important" }
+  ],
+  "lpa": [
+    { "min": 0, "max": 29, "label": "normal", "diseases": ["Coronary Artery Disease"], "priority": "supportive" }
+  ],
+  "homocysteine": [
+    { "min": 5, "max": 15, "label": "normal", "diseases": ["Coronary Artery Disease"], "priority": "supportive" }
+  ],
+  "vldl": [
+    { "min": 2, "max": 30, "label": "normal", "diseases": ["Hyperlipidemia"], "priority": "important" }
+  ],
+  "apob": [
+    { "min": 0, "max": 89, "label": "normal", "diseases": ["Hyperlipidemia"], "priority": "supportive" }
+  ],
+  "bun": [
+    { "min": 7, "max": 20, "label": "normal", "diseases": ["Chronic Kidney Disease"], "priority": "important" }
+  ],
+  "hemoglobin": [
+    { "min": 13.5, "max": 17.5, "label": "normal (male)", "diseases": ["Anemia"], "priority": "critical" },
+    { "min": 12.0, "max": 15.5, "label": "normal (female)", "diseases": ["Anemia"], "priority": "critical" },
+    { "min": 0, "max": 12, "label": "low", "diseases": ["Anemia", "Iron Deficiency"], "priority": "critical" }
+  ],
+  "hematocrit": [
+    { "min": 38.8, "max": 50, "label": "normal (male)", "diseases": ["Anemia"], "priority": "critical" },
+    { "min": 34.9, "max": 44.5, "label": "normal (female)", "diseases": ["Anemia"], "priority": "critical" }
+  ],
+  "mcv": [
+    { "min": 80, "max": 100, "label": "normal", "diseases": ["Anemia"], "priority": "important" },
+    { "min": 0, "max": 79, "label": "microcytic", "diseases": ["Anemia", "Iron Deficiency"], "priority": "important" },
+    { "min": 101, "max": 150, "label": "macrocytic", "diseases": ["Anemia"], "priority": "important" }
+  ],
+  "mch": [
+    { "min": 27, "max": 33, "label": "normal", "diseases": ["Anemia"], "priority": "supportive" }
+  ],
+  "bmi": [
+    { "min": 18.5, "max": 24.9, "label": "normal", "diseases": ["Obesity", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 25.0, "max": 29.9, "label": "overweight", "diseases": ["Obesity", "Metabolic Syndrome"], "priority": "critical" },
+    { "min": 30.0, "max": 100, "label": "obese", "diseases": ["Obesity", "Metabolic Syndrome"], "priority": "critical" }
+  ],
+  "waist_circumference": [
+    { "min": 0, "max": 102, "label": "normal (male)", "diseases": ["Obesity", "Metabolic Syndrome"], "priority": "important" },
+    { "min": 0, "max": 88, "label": "normal (female)", "diseases": ["Obesity", "Metabolic Syndrome"], "priority": "important" }
+  ],
+  "alt": [
+    { "min": 7, "max": 55, "label": "normal", "diseases": ["Fatty Liver Disease", "Chronic Liver Disease"], "priority": "critical" },
+    { "min": 56, "max": 2000, "label": "high", "diseases": ["Fatty Liver Disease", "Chronic Liver Disease"], "priority": "critical" }
+  ],
+  "ast": [
+    { "min": 8, "max": 48, "label": "normal", "diseases": ["Fatty Liver Disease", "Chronic Liver Disease"], "priority": "critical" }
+  ],
+  "ggt": [
+    { "min": 0, "max": 60, "label": "normal", "diseases": ["Fatty Liver Disease"], "priority": "important" }
+  ],
+  "bilirubin": [
+    { "min": 0.1, "max": 1.2, "label": "normal", "diseases": ["Chronic Liver Disease", "Fatty Liver Disease"], "priority": "critical" }
+  ],
+  "tsh": [
+    { "min": 0.4, "max": 4.0, "label": "normal", "diseases": ["Hypothyroidism", "Hyperthyroidism"], "priority": "critical" },
+    { "min": 4.1, "max": 100, "label": "high (hypo)", "diseases": ["Hypothyroidism"], "priority": "critical" },
+    { "min": 0, "max": 0.39, "label": "low (hyper)", "diseases": ["Hyperthyroidism"], "priority": "critical" }
+  ],
+  "ft4": [
+    { "min": 0.8, "max": 1.8, "label": "normal", "diseases": ["Hypothyroidism", "Hyperthyroidism"], "priority": "critical" }
+  ],
+  "ft3": [
+    { "min": 2.3, "max": 4.2, "label": "normal", "diseases": ["Hypothyroidism", "Hyperthyroidism"], "priority": "important" }
+  ],
+  "uric_acid": [
+    { "min": 3.4, "max": 7.0, "label": "normal (male)", "diseases": ["Gout"], "priority": "critical" },
+    { "min": 2.4, "max": 6.0, "label": "normal (female)", "diseases": ["Gout"], "priority": "critical" },
+    { "min": 7.1, "max": 20, "label": "high", "diseases": ["Gout"], "priority": "critical" }
+  ],
+  "t_score": [
+    { "min": -1.0, "max": 5.0, "label": "normal", "diseases": ["Osteoporosis"], "priority": "critical" },
+    { "min": -2.5, "max": -1.1, "label": "osteopenia", "diseases": ["Osteoporosis"], "priority": "critical" },
+    { "min": -10, "max": -2.6, "label": "osteoporosis", "diseases": ["Osteoporosis"], "priority": "critical" }
+  ],
+  "vitamin_d": [
+    { "min": 30, "max": 100, "label": "sufficient", "diseases": ["Osteoporosis", "Vitamin D Deficiency"], "priority": "important" },
+    { "min": 20, "max": 29, "label": "insufficient", "diseases": ["Vitamin D Deficiency"], "priority": "critical" },
+    { "min": 0, "max": 19, "label": "deficient", "diseases": ["Vitamin D Deficiency"], "priority": "critical" }
+  ],
+  "calcium": [
+    { "min": 8.5, "max": 10.2, "label": "normal", "diseases": ["Osteoporosis"], "priority": "supportive" }
+  ],
+  "albumin": [
+    { "min": 3.4, "max": 5.4, "label": "normal", "diseases": ["Chronic Liver Disease"], "priority": "critical" }
+  ],
+  "inr": [
+    { "min": 0.8, "max": 1.1, "label": "normal", "diseases": ["Chronic Liver Disease"], "priority": "critical" }
+  ],
+  "platelets": [
+    { "min": 150000, "max": 450000, "label": "normal", "diseases": ["Chronic Liver Disease"], "priority": "important" }
+  ],
+  "testosterone": [
+    { "min": 15, "max": 70, "label": "normal (female)", "diseases": ["Polycystic Ovary Syndrome (PCOS)"], "priority": "critical" },
+    { "min": 71, "max": 500, "label": "high", "diseases": ["Polycystic Ovary Syndrome (PCOS)"], "priority": "critical" }
+  ],
+  "lh_fsh_ratio": [
+    { "min": 0, "max": 1.5, "label": "normal", "diseases": ["Polycystic Ovary Syndrome (PCOS)"], "priority": "important" },
+    { "min": 2.0, "max": 10, "label": "high", "diseases": ["Polycystic Ovary Syndrome (PCOS)"], "priority": "important" }
+  ],
+  "dheas": [
+    { "min": 35, "max": 430, "label": "normal (female)", "diseases": ["Polycystic Ovary Syndrome (PCOS)"], "priority": "important" }
+  ],
+  "ferritin": [
+    { "min": 12, "max": 300, "label": "normal (male)", "diseases": ["Iron Deficiency"], "priority": "critical" },
+    { "min": 12, "max": 150, "label": "normal (female)", "diseases": ["Iron Deficiency"], "priority": "critical" },
+    { "min": 0, "max": 11, "label": "low", "diseases": ["Iron Deficiency"], "priority": "critical" }
+  ],
+  "serum_iron": [
+    { "min": 60, "max": 170, "label": "normal", "diseases": ["Iron Deficiency"], "priority": "important" }
+  ],
+  "tibc": [
+    { "min": 240, "max": 450, "label": "normal", "diseases": ["Iron Deficiency"], "priority": "important" }
+  ],
+  "iron_saturation": [
+    { "min": 20, "max": 50, "label": "normal", "diseases": ["Iron Deficiency"], "priority": "supportive" }
+  ]
+}

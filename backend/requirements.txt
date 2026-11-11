@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+opencv-python-headless
+easyocr
+pdfplumber
+numpy
+groq
+python-dotenv

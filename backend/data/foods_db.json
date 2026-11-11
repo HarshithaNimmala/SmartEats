@@ -1,0 +1,1617 @@
+{
+  "processed_foods": {
+    "oreo_cookies": {
+      "name": "Oreo Cookies",
+      "ingredients": [
+        "sugar",
+        "unbleached enriched flour",
+        "palm oil",
+        "cocoa",
+        "high fructose corn syrup",
+        "leavening",
+        "salt",
+        "soy lecithin",
+        "vanillin",
+        "chocolate"
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 4,
+        "fat": 20,
+        "carbs": 71,
+        "sugar": 38,
+        "sodium": 450
+      }
+    },
+    "haldirams_aloo_bhujia": {
+      "name": "Haldiram's Aloo Bhujia",
+      "ingredients": [
+        "potato",
+        "edible vegetable oil",
+        "gram flour",
+        "dew bean flour",
+        "salt",
+        "spices",
+        "condiments"
+      ],
+      "nutrition": {
+        "calories": 580,
+        "protein": 9,
+        "fat": 42,
+        "carbs": 42,
+        "sugar": 0.5,
+        "sodium": 850
+      }
+    },
+    "lays_classic_potato_chips": {
+      "name": "Lay's Classic Potato Chips",
+      "ingredients": [
+        "potato",
+        "vegetable oil",
+        "salt"
+      ],
+      "nutrition": {
+        "calories": 536,
+        "protein": 7,
+        "fat": 35,
+        "carbs": 48,
+        "sugar": 0.5,
+        "sodium": 520
+      }
+    },
+    "parleg_biscuits": {
+      "name": "Parle-G Biscuits",
+      "ingredients": [
+        "wheat flour",
+        "sugar",
+        "edible vegetable oil",
+        "invert sugar syrup",
+        "raising agents",
+        "salt",
+        "milk",
+        "flavouring"
+      ],
+      "nutrition": {
+        "calories": 454,
+        "protein": 7,
+        "fat": 13,
+        "carbs": 77,
+        "sugar": 25,
+        "sodium": 320
+      }
+    },
+    "maggi_instant_noodles": {
+      "name": "Maggi Instant Noodles",
+      "ingredients": [
+        "wheat flour",
+        "palm oil",
+        "salt",
+        "wheat gluten",
+        "mineral",
+        "thickener",
+        "spices",
+        "sugar",
+        "carrots",
+        "garlic"
+      ],
+      "nutrition": {
+        "calories": 390,
+        "protein": 9,
+        "fat": 14,
+        "carbs": 57,
+        "sugar": 2,
+        "sodium": 1200
+      }
+    },
+    "coca_cola_500ml": {
+      "name": "Coca-Cola (500ml)",
+      "ingredients": [
+        "carbonated water",
+        "sugar",
+        "caramel color",
+        "phosphoric acid",
+        "natural flavors",
+        "caffeine"
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": 0,
+        "fat": 0,
+        "carbs": 53,
+        "sugar": 53,
+        "sodium": 50
+      }
+    },
+    "kurkure_masala_munch": {
+      "name": "Kurkure Masala Munch",
+      "ingredients": [
+        "rice",
+        "edible vegetable oil",
+        "corn meal",
+        "gram meal",
+        "salt",
+        "spices",
+        "condiments"
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 6,
+        "fat": 35,
+        "carbs": 55,
+        "sugar": 2,
+        "sodium": 920
+      }
+    },
+    "kelloggs_corn_flakes": {
+      "name": "Kellogg's Corn Flakes",
+      "ingredients": [
+        "milled corn",
+        "sugar",
+        "malt flavor",
+        "salt",
+        "vitamins",
+        "minerals"
+      ],
+      "nutrition": {
+        "calories": 375,
+        "protein": 7,
+        "fat": 0.4,
+        "carbs": 86,
+        "sugar": 9,
+        "sodium": 720
+      }
+    },
+    "nutella_100g": {
+      "name": "Nutella (100g)",
+      "ingredients": [
+        "sugar",
+        "palm oil",
+        "hazelnuts",
+        "skimmed milk powder",
+        "fat-reduced cocoa",
+        "soy lecithin",
+        "vanillin"
+      ],
+      "nutrition": {
+        "calories": 539,
+        "protein": 6,
+        "fat": 31,
+        "carbs": 59,
+        "sugar": 56,
+        "sodium": 42
+      }
+    },
+    "pringles_original": {
+      "name": "Pringles Original",
+      "ingredients": [
+        "potatoes",
+        "vegetable oil",
+        "corn flour",
+        "corn starch",
+        "rice",
+        "sugar",
+        "salt",
+        "wheat starch"
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 4,
+        "fat": 31,
+        "carbs": 56,
+        "sugar": 1,
+        "sodium": 530
+      }
+    },
+    "kitkat_chocolate_bar": {
+      "name": "KitKat Chocolate Bar",
+      "ingredients": [
+        "sugar",
+        "wheat flour",
+        "butter",
+        "milk",
+        "cocoa mass",
+        "vegetable fats",
+        "whey powder",
+        "lecithin"
+      ],
+      "nutrition": {
+        "calories": 518,
+        "protein": 7,
+        "fat": 27,
+        "carbs": 62,
+        "sugar": 45,
+        "sodium": 120
+      }
+    },
+    "doritos_nacho_cheese": {
+      "name": "Doritos Nacho Cheese",
+      "ingredients": [
+        "corn",
+        "vegetable oil",
+        "maltodextrin",
+        "salt",
+        "cheddar cheese",
+        "whey",
+        "monosodium glutamate",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 490,
+        "protein": 7,
+        "fat": 25,
+        "carbs": 59,
+        "sugar": 2,
+        "sodium": 630
+      }
+    },
+    "heinz_tomato_ketchup": {
+      "name": "Heinz Tomato Ketchup",
+      "ingredients": [
+        "tomato",
+        "vinegar",
+        "sugar",
+        "salt",
+        "onion powder",
+        "spices",
+        "natural flavoring"
+      ],
+      "nutrition": {
+        "calories": 112,
+        "protein": 1.2,
+        "fat": 0.1,
+        "carbs": 27,
+        "sugar": 22,
+        "sodium": 907
+      }
+    },
+    "snickers_bar": {
+      "name": "Snickers Bar",
+      "ingredients": [
+        "milk",
+        "peanuts",
+        "corn syrup",
+        "sugar",
+        "palm oil",
+        "lactose",
+        "salt",
+        "egg"
+      ],
+      "nutrition": {
+        "calories": 488,
+        "protein": 9,
+        "fat": 24,
+        "carbs": 59,
+        "sugar": 51,
+        "sodium": 240
+      }
+    },
+    "frozen_pizza_pepperoni": {
+      "name": "Frozen Pizza (Pepperoni)",
+      "ingredients": [
+        "wheat flour",
+        "water",
+        "tomato",
+        "mozzarella cheese",
+        "pepperoni",
+        "vegetable oil",
+        "sugar",
+        "salt",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 11,
+        "fat": 12,
+        "carbs": 27,
+        "sugar": 4,
+        "sodium": 680
+      }
+    },
+    "instant_coffee_nescafe": {
+      "name": "Instant Coffee (Nescafe)",
+      "ingredients": [
+        "100% pure coffee beans"
+      ],
+      "nutrition": {
+        "calories": 2,
+        "protein": 0.3,
+        "fat": 0,
+        "carbs": 0,
+        "sugar": 0,
+        "sodium": 5
+      }
+    },
+    "mayonnaise_hellmann_s": {
+      "name": "Mayonnaise (Hellmann's)",
+      "ingredients": [
+        "soybean oil",
+        "water",
+        "eggs",
+        "vinegar",
+        "salt",
+        "sugar",
+        "lemon juice concentrate",
+        "calcium disodium edta"
+      ],
+      "nutrition": {
+        "calories": 680,
+        "protein": 1,
+        "fat": 75,
+        "carbs": 0,
+        "sugar": 1,
+        "sodium": 635
+      }
+    },
+    "peanut_butter_skippy": {
+      "name": "Peanut Butter (Skippy)",
+      "ingredients": [
+        "peanuts",
+        "sugar",
+        "hydrogenated vegetable oil",
+        "salt"
+      ],
+      "nutrition": {
+        "calories": 588,
+        "protein": 22,
+        "fat": 50,
+        "carbs": 13,
+        "sugar": 9,
+        "sodium": 420
+      }
+    },
+    "ritz_crackers": {
+      "name": "Ritz Crackers",
+      "ingredients": [
+        "unbleached enriched flour",
+        "vegetable oil",
+        "sugar",
+        "salt",
+        "leavening",
+        "high fructose corn syrup",
+        "soy lecithin"
+      ],
+      "nutrition": {
+        "calories": 483,
+        "protein": 6,
+        "fat": 23,
+        "carbs": 63,
+        "sugar": 10,
+        "sodium": 950
+      }
+    },
+    "cheetos_puffs": {
+      "name": "Cheetos Puffs",
+      "ingredients": [
+        "corn meal",
+        "vegetable oil",
+        "cheese",
+        "salt",
+        "whey",
+        "monosodium glutamate"
+      ],
+      "nutrition": {
+        "calories": 560,
+        "protein": 4,
+        "fat": 35,
+        "carbs": 57,
+        "sugar": 4,
+        "sodium": 880
+      }
+    },
+    "red_bull_250ml": {
+      "name": "Red Bull (250ml)",
+      "ingredients": [
+        "water",
+        "sugar",
+        "glucose",
+        "citric acid",
+        "taurine",
+        "sodium bicarbonate",
+        "magnesium carbonate",
+        "caffeine",
+        "niacin"
+      ],
+      "nutrition": {
+        "calories": 45,
+        "protein": 0,
+        "fat": 0,
+        "carbs": 11,
+        "sugar": 11,
+        "sodium": 40
+      }
+    },
+    "beef_jerky": {
+      "name": "Beef Jerky",
+      "ingredients": [
+        "beef",
+        "soy sauce",
+        "sugar",
+        "spices",
+        "salt",
+        "sodium nitrite"
+      ],
+      "nutrition": {
+        "calories": 410,
+        "protein": 33,
+        "fat": 25,
+        "carbs": 13,
+        "sugar": 9,
+        "sodium": 2200
+      }
+    },
+    "canned_tomato_soup": {
+      "name": "Canned Tomato Soup",
+      "ingredients": [
+        "tomato",
+        "high fructose corn syrup",
+        "wheat flour",
+        "water",
+        "salt",
+        "vegetable oil",
+        "natural flavoring"
+      ],
+      "nutrition": {
+        "calories": 74,
+        "protein": 1.5,
+        "fat": 0.2,
+        "carbs": 17,
+        "sugar": 10,
+        "sodium": 720
+      }
+    },
+    "white_bread_commercial": {
+      "name": "White Bread (Commercial)",
+      "ingredients": [
+        "enriched flour",
+        "water",
+        "high fructose corn syrup",
+        "yeast",
+        "soybean oil",
+        "salt",
+        "wheat gluten",
+        "lecithin"
+      ],
+      "nutrition": {
+        "calories": 265,
+        "protein": 9,
+        "fat": 3,
+        "carbs": 51,
+        "sugar": 5,
+        "sodium": 490
+      }
+    },
+    "hot_dogs": {
+      "name": "Hot Dogs",
+      "ingredients": [
+        "beef",
+        "water",
+        "corn syrup",
+        "salt",
+        "sodium lactate",
+        "spices",
+        "sodium nitrite"
+      ],
+      "nutrition": {
+        "calories": 310,
+        "protein": 11,
+        "fat": 28,
+        "carbs": 4,
+        "sugar": 2,
+        "sodium": 1200
+      }
+    },
+    "gummy_bears": {
+      "name": "Gummy Bears",
+      "ingredients": [
+        "glucose",
+        "sugar",
+        "gelatin",
+        "dextrose",
+        "citric acid",
+        "fruit juice",
+        "natural flavors"
+      ],
+      "nutrition": {
+        "calories": 340,
+        "protein": 7,
+        "fat": 0,
+        "carbs": 78,
+        "sugar": 46,
+        "sodium": 50
+      }
+    },
+    "microwave_popcorn_butter": {
+      "name": "Microwave Popcorn (Butter)",
+      "ingredients": [
+        "corn",
+        "palm oil",
+        "salt",
+        "natural flavor",
+        "color"
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 6,
+        "fat": 35,
+        "carbs": 45,
+        "sugar": 1,
+        "sodium": 850
+      }
+    },
+    "canned_fruit_cocktail_syrup": {
+      "name": "Canned Fruit Cocktail (Syrup)",
+      "ingredients": [
+        "peaches",
+        "pears",
+        "grapes",
+        "apple",
+        "cherries",
+        "water",
+        "high fructose corn syrup",
+        "sugar"
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": 0.4,
+        "fat": 0.1,
+        "carbs": 19,
+        "sugar": 19,
+        "sodium": 10
+      }
+    },
+    "mcnuggets_6_pc": {
+      "name": "McNuggets (6 pc)",
+      "ingredients": [
+        "chicken breast",
+        "water",
+        "flour",
+        "vegetable oil",
+        "salt",
+        "spices",
+        "sugar",
+        "starches"
+      ],
+      "nutrition": {
+        "calories": 270,
+        "protein": 15,
+        "fat": 16,
+        "carbs": 17,
+        "sugar": 0,
+        "sodium": 510
+      }
+    },
+    "cup_noodles_shrimp": {
+      "name": "Cup Noodles (Shrimp)",
+      "ingredients": [
+        "enriched flour",
+        "palm oil",
+        "salt",
+        "dried shrimp",
+        "msg",
+        "soy sauce",
+        "spices",
+        "dehydrated vegetables"
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 6,
+        "fat": 11,
+        "carbs": 42,
+        "sugar": 2,
+        "sodium": 1100
+      }
+    },
+    "veg_burger": {
+      "name": "Veg Burger",
+      "ingredients": [
+        "veggie patty",
+        "whole wheat bun",
+        "lettuce",
+        "tomato",
+        "onion",
+        "eggless mayo"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 12,
+        "fat": 14,
+        "carbs": 38,
+        "sugar": 4,
+        "sodium": 650
+      }
+    },
+    "non_veg_burger": {
+      "name": "Non-Veg Burger",
+      "ingredients": [
+        "chicken breast",
+        "bun",
+        "lettuce",
+        "tomato",
+        "mayo",
+        "cheese"
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 22,
+        "fat": 18,
+        "carbs": 35,
+        "sugar": 5,
+        "sodium": 850
+      }
+    }
+  },
+  "natural_foods": {
+    "apple": {
+      "name": "Apple",
+      "ingredients": [
+        "apple"
+      ],
+      "nutrition": {
+        "calories": 52,
+        "protein": 0.3,
+        "fat": 0.2,
+        "carbs": 14,
+        "sugar": 10,
+        "sodium": 1
+      }
+    },
+    "spinach": {
+      "name": "Spinach",
+      "ingredients": [
+        "spinach"
+      ],
+      "nutrition": {
+        "calories": 23,
+        "protein": 2.9,
+        "fat": 0.4,
+        "carbs": 2,
+        "sugar": 0.4,
+        "sodium": 79
+      }
+    },
+    "almonds": {
+      "name": "Almonds",
+      "ingredients": [
+        "almonds"
+      ],
+      "nutrition": {
+        "calories": 579,
+        "protein": 21,
+        "fat": 50,
+        "carbs": 11,
+        "sugar": 4.4,
+        "sodium": 1
+      }
+    },
+    "salmon": {
+      "name": "Salmon",
+      "ingredients": [
+        "salmon"
+      ],
+      "nutrition": {
+        "calories": 208,
+        "protein": 20,
+        "fat": 13,
+        "carbs": 3,
+        "sugar": 0,
+        "sodium": 59
+      }
+    },
+    "chicken_breast": {
+      "name": "Chicken Breast",
+      "ingredients": [
+        "chicken breast"
+      ],
+      "nutrition": {
+        "calories": 165,
+        "protein": 31,
+        "fat": 3.6,
+        "carbs": 2,
+        "sugar": 0,
+        "sodium": 74
+      }
+    },
+    "eggs_1_large": {
+      "name": "Eggs (1 large)",
+      "ingredients": [
+        "eggs"
+      ],
+      "nutrition": {
+        "calories": 78,
+        "protein": 6,
+        "fat": 5,
+        "carbs": 2,
+        "sugar": 0.6,
+        "sodium": 62
+      }
+    },
+    "banana": {
+      "name": "Banana",
+      "ingredients": [
+        "banana"
+      ],
+      "nutrition": {
+        "calories": 89,
+        "protein": 1.1,
+        "fat": 0.3,
+        "carbs": 23,
+        "sugar": 12,
+        "sodium": 1
+      }
+    },
+    "broccoli": {
+      "name": "Broccoli",
+      "ingredients": [
+        "broccoli"
+      ],
+      "nutrition": {
+        "calories": 34,
+        "protein": 2.8,
+        "fat": 0.4,
+        "carbs": 5,
+        "sugar": 1.7,
+        "sodium": 33
+      }
+    },
+    "blueberries": {
+      "name": "Blueberries",
+      "ingredients": [
+        "blueberries"
+      ],
+      "nutrition": {
+        "calories": 57,
+        "protein": 0.7,
+        "fat": 0.3,
+        "carbs": 13,
+        "sugar": 10,
+        "sodium": 1
+      }
+    },
+    "quinoa_cooked": {
+      "name": "Quinoa (Cooked)",
+      "ingredients": [
+        "quinoa"
+      ],
+      "nutrition": {
+        "calories": 120,
+        "protein": 4.1,
+        "fat": 1.9,
+        "carbs": 22,
+        "sugar": 0.9,
+        "sodium": 7
+      }
+    },
+    "lentils_cooked": {
+      "name": "Lentils (Cooked)",
+      "ingredients": [
+        "lentils"
+      ],
+      "nutrition": {
+        "calories": 116,
+        "protein": 9,
+        "fat": 0.4,
+        "carbs": 19,
+        "sugar": 1.8,
+        "sodium": 2
+      }
+    },
+    "sweet_potato": {
+      "name": "Sweet Potato",
+      "ingredients": [
+        "sweet potato"
+      ],
+      "nutrition": {
+        "calories": 86,
+        "protein": 1.6,
+        "fat": 0.1,
+        "carbs": 20,
+        "sugar": 4.2,
+        "sodium": 55
+      }
+    },
+    "greek_yogurt_plain": {
+      "name": "Greek Yogurt (Plain)",
+      "ingredients": [
+        "milk",
+        "live cultures"
+      ],
+      "nutrition": {
+        "calories": 59,
+        "protein": 10,
+        "fat": 0.4,
+        "carbs": 4,
+        "sugar": 3.6,
+        "sodium": 36
+      }
+    },
+    "oats_raw": {
+      "name": "Oats (Raw)",
+      "ingredients": [
+        "whole grain oats"
+      ],
+      "nutrition": {
+        "calories": 389,
+        "protein": 16.9,
+        "fat": 6.9,
+        "carbs": 65,
+        "sugar": 0,
+        "sodium": 2
+      }
+    },
+    "avocado": {
+      "name": "Avocado",
+      "ingredients": [
+        "avocado"
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": 2,
+        "fat": 15,
+        "carbs": 4,
+        "sugar": 0.7,
+        "sodium": 7
+      }
+    },
+    "brown_rice_cooked": {
+      "name": "Brown Rice (Cooked)",
+      "ingredients": [
+        "brown rice",
+        "water"
+      ],
+      "nutrition": {
+        "calories": 111,
+        "protein": 2.6,
+        "fat": 0.9,
+        "carbs": 23,
+        "sugar": 0.4,
+        "sodium": 5
+      }
+    },
+    "walnuts": {
+      "name": "Walnuts",
+      "ingredients": [
+        "walnuts"
+      ],
+      "nutrition": {
+        "calories": 654,
+        "protein": 15,
+        "fat": 65,
+        "carbs": 2,
+        "sugar": 2.6,
+        "sodium": 2
+      }
+    },
+    "garlic": {
+      "name": "Garlic",
+      "ingredients": [
+        "garlic"
+      ],
+      "nutrition": {
+        "calories": 149,
+        "protein": 6.4,
+        "fat": 0.5,
+        "carbs": 30,
+        "sugar": 1,
+        "sodium": 17
+      }
+    },
+    "ginger": {
+      "name": "Ginger",
+      "ingredients": [
+        "ginger"
+      ],
+      "nutrition": {
+        "calories": 80,
+        "protein": 1.8,
+        "fat": 0.8,
+        "carbs": 16,
+        "sugar": 1.7,
+        "sodium": 13
+      }
+    },
+    "honey": {
+      "name": "Honey",
+      "ingredients": [
+        "honey"
+      ],
+      "nutrition": {
+        "calories": 304,
+        "protein": 0.3,
+        "fat": 0,
+        "carbs": 76,
+        "sugar": 82,
+        "sodium": 4
+      }
+    },
+    "tomato": {
+      "name": "Tomato",
+      "ingredients": [
+        "tomatoes"
+      ],
+      "nutrition": {
+        "calories": 18,
+        "protein": 0.9,
+        "fat": 0.2,
+        "carbs": 3,
+        "sugar": 2.6,
+        "sodium": 5
+      }
+    },
+    "cucumber": {
+      "name": "Cucumber",
+      "ingredients": [
+        "cucumber"
+      ],
+      "nutrition": {
+        "calories": 15,
+        "protein": 0.7,
+        "fat": 0.1,
+        "carbs": 3,
+        "sugar": 1.7,
+        "sodium": 2
+      }
+    },
+    "orange": {
+      "name": "Orange",
+      "ingredients": [
+        "orange"
+      ],
+      "nutrition": {
+        "calories": 47,
+        "protein": 0.9,
+        "fat": 0.1,
+        "carbs": 11,
+        "sugar": 9,
+        "sodium": 0
+      }
+    },
+    "whole_milk": {
+      "name": "Whole Milk",
+      "ingredients": [
+        "milk"
+      ],
+      "nutrition": {
+        "calories": 61,
+        "protein": 3.2,
+        "fat": 3.3,
+        "carbs": 5,
+        "sugar": 5.1,
+        "sodium": 44
+      }
+    },
+    "chia_seeds": {
+      "name": "Chia Seeds",
+      "ingredients": [
+        "chia seeds"
+      ],
+      "nutrition": {
+        "calories": 486,
+        "protein": 17,
+        "fat": 31,
+        "carbs": 35,
+        "sugar": 0,
+        "sodium": 16
+      }
+    },
+    "chickpeas_cooked": {
+      "name": "Chickpeas (Cooked)",
+      "ingredients": [
+        "chickpeas"
+      ],
+      "nutrition": {
+        "calories": 164,
+        "protein": 8.9,
+        "fat": 2.6,
+        "carbs": 26,
+        "sugar": 4.8,
+        "sodium": 24
+      }
+    },
+    "kale": {
+      "name": "Kale",
+      "ingredients": [
+        "kale"
+      ],
+      "nutrition": {
+        "calories": 35,
+        "protein": 2.9,
+        "fat": 0.6,
+        "carbs": 5,
+        "sugar": 1.3,
+        "sodium": 53
+      }
+    },
+    "watermelon": {
+      "name": "Watermelon",
+      "ingredients": [
+        "watermelon"
+      ],
+      "nutrition": {
+        "calories": 30,
+        "protein": 0.6,
+        "fat": 0.2,
+        "carbs": 6,
+        "sugar": 6,
+        "sodium": 1
+      }
+    },
+    "pumpkin_seeds": {
+      "name": "Pumpkin Seeds",
+      "ingredients": [
+        "pumpkin seeds"
+      ],
+      "nutrition": {
+        "calories": 559,
+        "protein": 30,
+        "fat": 49,
+        "carbs": 0,
+        "sugar": 1.1,
+        "sodium": 7
+      }
+    },
+    "carrots": {
+      "name": "Carrots",
+      "ingredients": [
+        "carrots"
+      ],
+      "nutrition": {
+        "calories": 41,
+        "protein": 0.9,
+        "fat": 0.2,
+        "carbs": 9,
+        "sugar": 4.7,
+        "sodium": 69
+      }
+    }
+  },
+  "indian_foods": {
+    "chicken_biryani": {
+      "name": "Chicken Biryani",
+      "ingredients": [
+        "basmati rice",
+        "chicken",
+        "yogurt",
+        "onions",
+        "ghee",
+        "ginger-garlic paste",
+        "spices",
+        "saffron"
+      ],
+      "nutrition": {
+        "calories": 250,
+        "protein": 15,
+        "fat": 12,
+        "carbs": 21,
+        "sugar": 2,
+        "sodium": 450
+      }
+    },
+    "masala_dosa": {
+      "name": "Masala Dosa",
+      "ingredients": [
+        "rice",
+        "urad dal",
+        "potato",
+        "onion",
+        "mustard seeds",
+        "turmeric",
+        "oil"
+      ],
+      "nutrition": {
+        "calories": 168,
+        "protein": 4,
+        "fat": 7,
+        "carbs": 22,
+        "sugar": 1,
+        "sodium": 310
+      }
+    },
+    "idli_2_pcs": {
+      "name": "Idli (2 pcs)",
+      "ingredients": [
+        "rice",
+        "urad dal",
+        "fermented batter"
+      ],
+      "nutrition": {
+        "calories": 116,
+        "protein": 4,
+        "fat": 0.4,
+        "carbs": 24,
+        "sugar": 0.5,
+        "sodium": 180
+      }
+    },
+    "dal_tadka": {
+      "name": "Dal Tadka",
+      "ingredients": [
+        "arhar dal",
+        "onion",
+        "tomatoes",
+        "ghee",
+        "cumin",
+        "garlic",
+        "turmeric",
+        "coriander"
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein": 8,
+        "fat": 6,
+        "carbs": 16,
+        "sugar": 1,
+        "sodium": 290
+      }
+    },
+    "paneer_butter_masala": {
+      "name": "Paneer Butter Masala",
+      "ingredients": [
+        "paneer",
+        "butter",
+        "tomato",
+        "cream",
+        "cashews",
+        "ginger-garlic paste",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 12,
+        "fat": 28,
+        "carbs": 5,
+        "sugar": 4,
+        "sodium": 380
+      }
+    },
+    "butter_roti": {
+      "name": "Butter Roti",
+      "ingredients": [
+        "whole wheat flour",
+        "water",
+        "butter"
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": 3,
+        "fat": 4,
+        "carbs": 16,
+        "sugar": 0.2,
+        "sodium": 150
+      }
+    },
+    "samosa_1_pc": {
+      "name": "Samosa (1 pc)",
+      "ingredients": [
+        "maida",
+        "potato",
+        "green peas",
+        "oil",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 262,
+        "protein": 4,
+        "fat": 17,
+        "carbs": 23,
+        "sugar": 1,
+        "sodium": 425
+      }
+    },
+    "chole_bhature": {
+      "name": "Chole Bhature",
+      "ingredients": [
+        "chickpeas",
+        "maida",
+        "yogurt",
+        "onion",
+        "tomatoes",
+        "oil",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 12,
+        "fat": 25,
+        "carbs": 44,
+        "sugar": 3,
+        "sodium": 650
+      }
+    },
+    "palak_paneer": {
+      "name": "Palak Paneer",
+      "ingredients": [
+        "spinach",
+        "paneer",
+        "cream",
+        "onion",
+        "tomatoes",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 190,
+        "protein": 10,
+        "fat": 15,
+        "carbs": 4,
+        "sugar": 2,
+        "sodium": 320
+      }
+    },
+    "rajma_chawal": {
+      "name": "Rajma Chawal",
+      "ingredients": [
+        "kidney beans",
+        "rice",
+        "onion",
+        "tomatoes",
+        "ginger-garlic",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 310,
+        "protein": 12,
+        "fat": 8,
+        "carbs": 48,
+        "sugar": 2,
+        "sodium": 340
+      }
+    },
+    "dhokla_3_pcs": {
+      "name": "Dhokla (3 pcs)",
+      "ingredients": [
+        "gram flour",
+        "yogurt",
+        "citric acid",
+        "mustard seeds",
+        "curry leaves"
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": 6,
+        "fat": 7,
+        "carbs": 18,
+        "sugar": 4,
+        "sodium": 280
+      }
+    },
+    "pav_bhaji": {
+      "name": "Pav Bhaji",
+      "ingredients": [
+        "potato",
+        "butter",
+        "onion",
+        "pav bread",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 400,
+        "protein": 10,
+        "fat": 20,
+        "carbs": 45,
+        "sugar": 5,
+        "sodium": 680
+      }
+    },
+    "tandoori_chicken": {
+      "name": "Tandoori Chicken",
+      "ingredients": [
+        "chicken",
+        "yogurt",
+        "lemon juice",
+        "ginger-garlic",
+        "tandoori spices"
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 24,
+        "fat": 9,
+        "carbs": 1,
+        "sugar": 1,
+        "sodium": 410
+      }
+    },
+    "aloo_gobi": {
+      "name": "Aloo Gobi",
+      "ingredients": [
+        "potato",
+        "cauliflower",
+        "onion",
+        "tomatoes",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 110,
+        "protein": 3,
+        "fat": 6,
+        "carbs": 11,
+        "sugar": 2,
+        "sodium": 240
+      }
+    },
+    "gulab_jamun_2_pcs": {
+      "name": "Gulab Jamun (2 pcs)",
+      "ingredients": [
+        "mawa",
+        "maida",
+        "sugar",
+        "cardamom",
+        "rose water"
+      ],
+      "nutrition": {
+        "calories": 300,
+        "protein": 4,
+        "fat": 12,
+        "carbs": 44,
+        "sugar": 45,
+        "sodium": 60
+      }
+    },
+    "gajar_ka_halwa": {
+      "name": "Gajar Ka Halwa",
+      "ingredients": [
+        "carrots",
+        "milk",
+        "sugar",
+        "ghee",
+        "nuts"
+      ],
+      "nutrition": {
+        "calories": 175,
+        "protein": 3,
+        "fat": 8,
+        "carbs": 23,
+        "sugar": 25,
+        "sodium": 45
+      }
+    },
+    "poha": {
+      "name": "Poha",
+      "ingredients": [
+        "flattened rice",
+        "peanuts",
+        "onion",
+        "turmeric",
+        "mustard seeds",
+        "green chili"
+      ],
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "fat": 7,
+        "carbs": 25,
+        "sugar": 2,
+        "sodium": 260
+      }
+    },
+    "upma": {
+      "name": "Upma",
+      "ingredients": [
+        "semolina",
+        "onion",
+        "mustard seeds",
+        "urad dal",
+        "curry leaves",
+        "ginger"
+      ],
+      "nutrition": {
+        "calories": 190,
+        "protein": 5,
+        "fat": 8,
+        "carbs": 25,
+        "sugar": 1,
+        "sodium": 240
+      }
+    },
+    "vada_pav_1_pc": {
+      "name": "Vada Pav (1 pc)",
+      "ingredients": [
+        "potato",
+        "pav bread",
+        "garlic chutney",
+        "green chili"
+      ],
+      "nutrition": {
+        "calories": 290,
+        "protein": 6,
+        "fat": 15,
+        "carbs": 33,
+        "sugar": 3,
+        "sodium": 520
+      }
+    },
+    "medu_vada_2_pcs": {
+      "name": "Medu Vada (2 pcs)",
+      "ingredients": [
+        "urad dal",
+        "oil",
+        "peppercorns",
+        "curry leaves"
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": 8,
+        "fat": 14,
+        "carbs": 13,
+        "sugar": 0.5,
+        "sodium": 310
+      }
+    },
+    "tandoori_naan": {
+      "name": "Tandoori Naan",
+      "ingredients": [
+        "maida",
+        "yogurt",
+        "leavening",
+        "butter"
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 8,
+        "fat": 6,
+        "carbs": 44,
+        "sugar": 2,
+        "sodium": 380
+      }
+    },
+    "fish_curry": {
+      "name": "Fish Curry",
+      "ingredients": [
+        "fish",
+        "milk",
+        "tomatoes",
+        "onion",
+        "tamarind",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 160,
+        "protein": 20,
+        "fat": 8,
+        "carbs": 2,
+        "sugar": 1,
+        "sodium": 360
+      }
+    },
+    "baingan_bharta": {
+      "name": "Baingan Bharta",
+      "ingredients": [
+        "eggplant",
+        "onion",
+        "tomatoes",
+        "green peas",
+        "ginger",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 105,
+        "protein": 2,
+        "fat": 6,
+        "carbs": 11,
+        "sugar": 4,
+        "sodium": 220
+      }
+    },
+    "khichdi": {
+      "name": "Khichdi",
+      "ingredients": [
+        "rice",
+        "moong dal",
+        "ghee",
+        "turmeric",
+        "salt"
+      ],
+      "nutrition": {
+        "calories": 200,
+        "protein": 7,
+        "fat": 6,
+        "carbs": 30,
+        "sugar": 0.8,
+        "sodium": 280
+      }
+    },
+    "mutton_rogan_josh": {
+      "name": "Mutton Rogan Josh",
+      "ingredients": [
+        "mutton",
+        "onion",
+        "yogurt",
+        "ginger-garlic",
+        "kashmiri mirch",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 22,
+        "fat": 18,
+        "carbs": 8,
+        "sugar": 1,
+        "sodium": 460
+      }
+    },
+    "uttapam": {
+      "name": "Uttapam",
+      "ingredients": [
+        "rice",
+        "onion",
+        "tomatoes",
+        "chili",
+        "oil"
+      ],
+      "nutrition": {
+        "calories": 185,
+        "protein": 5,
+        "fat": 7,
+        "carbs": 26,
+        "sugar": 2,
+        "sodium": 290
+      }
+    },
+    "rasgulla_2_pcs": {
+      "name": "Rasgulla (2 pcs)",
+      "ingredients": [
+        "chenna",
+        "sugar"
+      ],
+      "nutrition": {
+        "calories": 210,
+        "protein": 4,
+        "fat": 4,
+        "carbs": 40,
+        "sugar": 40,
+        "sodium": 30
+      }
+    },
+    "lassi_sweet": {
+      "name": "Lassi (Sweet)",
+      "ingredients": [
+        "curd",
+        "sugar",
+        "water",
+        "cardamom"
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein": 3,
+        "fat": 4,
+        "carbs": 26,
+        "sugar": 20,
+        "sodium": 50
+      }
+    },
+    "misal_pav": {
+      "name": "Misal Pav",
+      "ingredients": [
+        "sprouted moth beans",
+        "pav bread",
+        "farsan",
+        "onion",
+        "spices"
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 12,
+        "fat": 22,
+        "carbs": 44,
+        "sugar": 4,
+        "sodium": 710
+      }
+    },
+    "masala_chai": {
+      "name": "Masala Chai",
+      "ingredients": [
+        "milk",
+        "tea leaves",
+        "ginger",
+        "cardamom",
+        "sugar"
+      ],
+      "nutrition": {
+        "calories": 60,
+        "protein": 2,
+        "fat": 2.5,
+        "carbs": 7,
+        "sugar": 8,
+        "sodium": 30
+      }
+    }
+  }
+}

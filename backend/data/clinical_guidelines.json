@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "sources": [
+            "American Diabetes Association (ADA) - Standards of Care 2024",
+            "American Heart Association (AHA) - Hypertension Guidelines",
+            "World Health Organization (WHO) - Global Obesity Prevention Guidelines"
+        ],
+        "version": "1.0",
+        "last_updated": "2024-04-06"
+    },
+    "guidelines": {
+        "diabetes": {
+            "condition_name": "Diabetes / Pre-Diabetes",
+            "thresholds": {
+                "avoid": {
+                    "carbs": 75,
+                    "sugar": 20,
+                    "rationale": "Excessive glycemic load can cause rapid blood glucose spikes."
+                },
+                "moderate": {
+                    "carbs": 45,
+                    "sugar": 10,
+                    "rationale": "Standard per-meal limit for blood sugar management (45g-60g carbs)."
+                }
+            }
+        },
+        "hypertension": {
+            "condition_name": "Hypertension / High Blood Pressure",
+            "thresholds": {
+                "avoid": {
+                    "sodium": 800,
+                    "sat_fat": 10,
+                    "rationale": "High sodium and saturated fats increase vascular tension and cholesterol."
+                },
+                "moderate": {
+                    "sodium": 500,
+                    "sat_fat": 5,
+                    "rationale": "AHA recommends limiting sodium to under 2,300mg daily, ideally 1,500mg."
+                }
+            }
+        },
+        "obesity": {
+            "condition_name": "Obesity / Overweight",
+            "thresholds": {
+                "avoid": {
+                    "calories": 800,
+                    "rationale": "Extremely high calorie density exceeds single-meal weight management targets."
+                },
+                "moderate": {
+                    "calories": 500,
+                    "rationale": "Moderate calorie density for sustainable weight loss (400-600 kcal range)."
+                }
+            }
+        }
+    }
+}

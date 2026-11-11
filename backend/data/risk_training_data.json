@@ -1,0 +1,2002 @@
+[
+  {
+    "hba1c": 5.4,
+    "fasting_glucose": 78,
+    "cholesterol": 185,
+    "ldl": 58,
+    "hdl": 77,
+    "triglycerides": 124,
+    "bmi": 22.3,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 8.9,
+    "fasting_glucose": 197,
+    "cholesterol": 253,
+    "ldl": 186,
+    "hdl": 24,
+    "triglycerides": 236,
+    "bmi": 32.6,
+    "risk": "High"
+  },
+  {
+    "hba1c": 8.8,
+    "fasting_glucose": 211,
+    "cholesterol": 282,
+    "ldl": 166,
+    "hdl": 31,
+    "triglycerides": 217,
+    "bmi": 31.4,
+    "risk": "High"
+  },
+  {
+    "hba1c": 7.3,
+    "fasting_glucose": 211,
+    "cholesterol": 298,
+    "ldl": 181,
+    "hdl": 30,
+    "triglycerides": 396,
+    "bmi": 32.7,
+    "risk": "High"
+  },
+  {
+    "hba1c": 4.9,
+    "fasting_glucose": 76,
+    "cholesterol": 187,
+    "ldl": 70,
+    "hdl": 80,
+    "triglycerides": 72,
+    "bmi": 20.9,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.7,
+    "fasting_glucose": 122,
+    "cholesterol": 215,
+    "ldl": 118,
+    "hdl": 47,
+    "triglycerides": 163,
+    "bmi": 27.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.4,
+    "fasting_glucose": 82,
+    "cholesterol": 151,
+    "ldl": 71,
+    "hdl": 60,
+    "triglycerides": 123,
+    "bmi": 19.2,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 9.1,
+    "fasting_glucose": 127,
+    "cholesterol": 298,
+    "ldl": 173,
+    "hdl": 27,
+    "triglycerides": 208,
+    "bmi": 33.2,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.1,
+    "fasting_glucose": 115,
+    "cholesterol": 233,
+    "ldl": 107,
+    "hdl": 42,
+    "triglycerides": 177,
+    "bmi": 27.8,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.2,
+    "fasting_glucose": 78,
+    "cholesterol": 178,
+    "ldl": 59,
+    "hdl": 60,
+    "triglycerides": 145,
+    "bmi": 21.5,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 117,
+    "cholesterol": 235,
+    "ldl": 140,
+    "hdl": 45,
+    "triglycerides": 198,
+    "bmi": 28.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 120,
+    "cholesterol": 225,
+    "ldl": 149,
+    "hdl": 51,
+    "triglycerides": 163,
+    "bmi": 28.0,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 8.8,
+    "fasting_glucose": 129,
+    "cholesterol": 259,
+    "ldl": 196,
+    "hdl": 27,
+    "triglycerides": 398,
+    "bmi": 37.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 8.0,
+    "fasting_glucose": 194,
+    "cholesterol": 246,
+    "ldl": 186,
+    "hdl": 23,
+    "triglycerides": 292,
+    "bmi": 34.5,
+    "risk": "High"
+  },
+  {
+    "hba1c": 4.7,
+    "fasting_glucose": 84,
+    "cholesterol": 174,
+    "ldl": 64,
+    "hdl": 65,
+    "triglycerides": 86,
+    "bmi": 23.3,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.1,
+    "fasting_glucose": 96,
+    "cholesterol": 130,
+    "ldl": 88,
+    "hdl": 66,
+    "triglycerides": 138,
+    "bmi": 23.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 9.0,
+    "fasting_glucose": 203,
+    "cholesterol": 269,
+    "ldl": 173,
+    "hdl": 22,
+    "triglycerides": 335,
+    "bmi": 30.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 4.8,
+    "fasting_glucose": 76,
+    "cholesterol": 184,
+    "ldl": 50,
+    "hdl": 79,
+    "triglycerides": 50,
+    "bmi": 23.3,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.2,
+    "fasting_glucose": 72,
+    "cholesterol": 141,
+    "ldl": 52,
+    "hdl": 64,
+    "triglycerides": 52,
+    "bmi": 23.0,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.8,
+    "fasting_glucose": 91,
+    "cholesterol": 146,
+    "ldl": 69,
+    "hdl": 74,
+    "triglycerides": 299,
+    "bmi": 21.8,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 100,
+    "cholesterol": 238,
+    "ldl": 126,
+    "hdl": 42,
+    "triglycerides": 169,
+    "bmi": 26.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 9.6,
+    "fasting_glucose": 155,
+    "cholesterol": 247,
+    "ldl": 199,
+    "hdl": 20,
+    "triglycerides": 240,
+    "bmi": 32.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.2,
+    "fasting_glucose": 91,
+    "cholesterol": 182,
+    "ldl": 95,
+    "hdl": 79,
+    "triglycerides": 117,
+    "bmi": 19.0,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 111,
+    "cholesterol": 225,
+    "ldl": 150,
+    "hdl": 47,
+    "triglycerides": 182,
+    "bmi": 25.8,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 8.4,
+    "fasting_glucose": 211,
+    "cholesterol": 276,
+    "ldl": 191,
+    "hdl": 33,
+    "triglycerides": 207,
+    "bmi": 32.7,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.2,
+    "fasting_glucose": 75,
+    "cholesterol": 137,
+    "ldl": 92,
+    "hdl": 70,
+    "triglycerides": 82,
+    "bmi": 19.9,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.0,
+    "fasting_glucose": 89,
+    "cholesterol": 147,
+    "ldl": 83,
+    "hdl": 78,
+    "triglycerides": 133,
+    "bmi": 24.7,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 104,
+    "cholesterol": 229,
+    "ldl": 114,
+    "hdl": 46,
+    "triglycerides": 181,
+    "bmi": 27.7,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 4.7,
+    "fasting_glucose": 76,
+    "cholesterol": 157,
+    "ldl": 53,
+    "hdl": 63,
+    "triglycerides": 100,
+    "bmi": 24.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 110,
+    "cholesterol": 230,
+    "ldl": 121,
+    "hdl": 48,
+    "triglycerides": 189,
+    "bmi": 25.5,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.3,
+    "fasting_glucose": 100,
+    "cholesterol": 216,
+    "ldl": 122,
+    "hdl": 55,
+    "triglycerides": 161,
+    "bmi": 25.4,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 109,
+    "cholesterol": 223,
+    "ldl": 144,
+    "hdl": 41,
+    "triglycerides": 193,
+    "bmi": 25.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 116,
+    "cholesterol": 211,
+    "ldl": 134,
+    "hdl": 58,
+    "triglycerides": 179,
+    "bmi": 28.8,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 9.8,
+    "fasting_glucose": 133,
+    "cholesterol": 275,
+    "ldl": 173,
+    "hdl": 39,
+    "triglycerides": 282,
+    "bmi": 32.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 120,
+    "cholesterol": 206,
+    "ldl": 113,
+    "hdl": 46,
+    "triglycerides": 157,
+    "bmi": 27.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 9.5,
+    "fasting_glucose": 219,
+    "cholesterol": 275,
+    "ldl": 192,
+    "hdl": 26,
+    "triglycerides": 346,
+    "bmi": 30.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 4.6,
+    "fasting_glucose": 74,
+    "cholesterol": 171,
+    "ldl": 88,
+    "hdl": 63,
+    "triglycerides": 149,
+    "bmi": 21.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.1,
+    "fasting_glucose": 84,
+    "cholesterol": 186,
+    "ldl": 96,
+    "hdl": 75,
+    "triglycerides": 128,
+    "bmi": 20.6,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 9.7,
+    "fasting_glucose": 222,
+    "cholesterol": 257,
+    "ldl": 186,
+    "hdl": 24,
+    "triglycerides": 234,
+    "bmi": 39.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 8.8,
+    "fasting_glucose": 190,
+    "cholesterol": 297,
+    "ldl": 193,
+    "hdl": 39,
+    "triglycerides": 259,
+    "bmi": 39.6,
+    "risk": "High"
+  },
+  {
+    "hba1c": 4.5,
+    "fasting_glucose": 95,
+    "cholesterol": 137,
+    "ldl": 82,
+    "hdl": 60,
+    "triglycerides": 84,
+    "bmi": 23.3,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 120,
+    "cholesterol": 227,
+    "ldl": 142,
+    "hdl": 47,
+    "triglycerides": 155,
+    "bmi": 28.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 8.6,
+    "fasting_glucose": 217,
+    "cholesterol": 261,
+    "ldl": 182,
+    "hdl": 31,
+    "triglycerides": 206,
+    "bmi": 34.3,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.1,
+    "fasting_glucose": 70,
+    "cholesterol": 139,
+    "ldl": 74,
+    "hdl": 65,
+    "triglycerides": 139,
+    "bmi": 20.7,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.0,
+    "fasting_glucose": 79,
+    "cholesterol": 120,
+    "ldl": 74,
+    "hdl": 62,
+    "triglycerides": 127,
+    "bmi": 21.5,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 9.9,
+    "fasting_glucose": 177,
+    "cholesterol": 269,
+    "ldl": 181,
+    "hdl": 25,
+    "triglycerides": 377,
+    "bmi": 32.0,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.5,
+    "fasting_glucose": 96,
+    "cholesterol": 157,
+    "ldl": 75,
+    "hdl": 80,
+    "triglycerides": 95,
+    "bmi": 19.1,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 9.1,
+    "fasting_glucose": 204,
+    "cholesterol": 280,
+    "ldl": 170,
+    "hdl": 20,
+    "triglycerides": 356,
+    "bmi": 39.5,
+    "risk": "High"
+  },
+  {
+    "hba1c": 7.4,
+    "fasting_glucose": 196,
+    "cholesterol": 292,
+    "ldl": 170,
+    "hdl": 25,
+    "triglycerides": 269,
+    "bmi": 36.3,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 123,
+    "cholesterol": 235,
+    "ldl": 134,
+    "hdl": 40,
+    "triglycerides": 183,
+    "bmi": 25.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 7.6,
+    "fasting_glucose": 155,
+    "cholesterol": 288,
+    "ldl": 192,
+    "hdl": 21,
+    "triglycerides": 251,
+    "bmi": 37.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 4.7,
+    "fasting_glucose": 93,
+    "cholesterol": 125,
+    "ldl": 76,
+    "hdl": 77,
+    "triglycerides": 98,
+    "bmi": 22.5,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.5,
+    "fasting_glucose": 73,
+    "cholesterol": 159,
+    "ldl": 94,
+    "hdl": 79,
+    "triglycerides": 65,
+    "bmi": 19.7,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.6,
+    "fasting_glucose": 72,
+    "cholesterol": 145,
+    "ldl": 50,
+    "hdl": 66,
+    "triglycerides": 203,
+    "bmi": 19.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.9,
+    "fasting_glucose": 92,
+    "cholesterol": 147,
+    "ldl": 55,
+    "hdl": 60,
+    "triglycerides": 111,
+    "bmi": 24.0,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.8,
+    "fasting_glucose": 99,
+    "cholesterol": 133,
+    "ldl": 65,
+    "hdl": 67,
+    "triglycerides": 64,
+    "bmi": 20.6,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.3,
+    "fasting_glucose": 77,
+    "cholesterol": 187,
+    "ldl": 50,
+    "hdl": 79,
+    "triglycerides": 120,
+    "bmi": 19.9,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.8,
+    "fasting_glucose": 207,
+    "cholesterol": 277,
+    "ldl": 199,
+    "hdl": 23,
+    "triglycerides": 263,
+    "bmi": 36.4,
+    "risk": "High"
+  },
+  {
+    "hba1c": 7.1,
+    "fasting_glucose": 243,
+    "cholesterol": 300,
+    "ldl": 187,
+    "hdl": 38,
+    "triglycerides": 359,
+    "bmi": 30.7,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.5,
+    "fasting_glucose": 77,
+    "cholesterol": 147,
+    "ldl": 91,
+    "hdl": 66,
+    "triglycerides": 272,
+    "bmi": 20.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.3,
+    "fasting_glucose": 116,
+    "cholesterol": 226,
+    "ldl": 142,
+    "hdl": 55,
+    "triglycerides": 189,
+    "bmi": 25.4,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.5,
+    "fasting_glucose": 184,
+    "cholesterol": 293,
+    "ldl": 174,
+    "hdl": 35,
+    "triglycerides": 295,
+    "bmi": 38.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.0,
+    "fasting_glucose": 97,
+    "cholesterol": 198,
+    "ldl": 78,
+    "hdl": 63,
+    "triglycerides": 95,
+    "bmi": 18.5,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 8.2,
+    "fasting_glucose": 188,
+    "cholesterol": 268,
+    "ldl": 164,
+    "hdl": 23,
+    "triglycerides": 359,
+    "bmi": 38.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.1,
+    "fasting_glucose": 100,
+    "cholesterol": 236,
+    "ldl": 102,
+    "hdl": 52,
+    "triglycerides": 162,
+    "bmi": 28.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.4,
+    "fasting_glucose": 114,
+    "cholesterol": 232,
+    "ldl": 125,
+    "hdl": 43,
+    "triglycerides": 194,
+    "bmi": 29.4,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.1,
+    "fasting_glucose": 91,
+    "cholesterol": 188,
+    "ldl": 76,
+    "hdl": 62,
+    "triglycerides": 78,
+    "bmi": 23.5,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 125,
+    "cholesterol": 219,
+    "ldl": 150,
+    "hdl": 51,
+    "triglycerides": 160,
+    "bmi": 28.1,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 4.6,
+    "fasting_glucose": 83,
+    "cholesterol": 194,
+    "ldl": 86,
+    "hdl": 78,
+    "triglycerides": 117,
+    "bmi": 22.9,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 9.0,
+    "fasting_glucose": 181,
+    "cholesterol": 260,
+    "ldl": 174,
+    "hdl": 32,
+    "triglycerides": 288,
+    "bmi": 32.3,
+    "risk": "High"
+  },
+  {
+    "hba1c": 8.9,
+    "fasting_glucose": 179,
+    "cholesterol": 265,
+    "ldl": 160,
+    "hdl": 30,
+    "triglycerides": 375,
+    "bmi": 32.3,
+    "risk": "High"
+  },
+  {
+    "hba1c": 7.3,
+    "fasting_glucose": 175,
+    "cholesterol": 278,
+    "ldl": 175,
+    "hdl": 27,
+    "triglycerides": 259,
+    "bmi": 32.6,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 113,
+    "cholesterol": 206,
+    "ldl": 111,
+    "hdl": 57,
+    "triglycerides": 182,
+    "bmi": 28.3,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.5,
+    "fasting_glucose": 72,
+    "cholesterol": 183,
+    "ldl": 94,
+    "hdl": 78,
+    "triglycerides": 61,
+    "bmi": 20.9,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 8.9,
+    "fasting_glucose": 142,
+    "cholesterol": 244,
+    "ldl": 192,
+    "hdl": 33,
+    "triglycerides": 242,
+    "bmi": 39.4,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.5,
+    "fasting_glucose": 87,
+    "cholesterol": 131,
+    "ldl": 57,
+    "hdl": 76,
+    "triglycerides": 141,
+    "bmi": 22.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.6,
+    "fasting_glucose": 74,
+    "cholesterol": 180,
+    "ldl": 94,
+    "hdl": 74,
+    "triglycerides": 123,
+    "bmi": 18.7,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 122,
+    "cholesterol": 205,
+    "ldl": 139,
+    "hdl": 57,
+    "triglycerides": 177,
+    "bmi": 26.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 125,
+    "cholesterol": 239,
+    "ldl": 120,
+    "hdl": 47,
+    "triglycerides": 168,
+    "bmi": 28.9,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 7.2,
+    "fasting_glucose": 186,
+    "cholesterol": 246,
+    "ldl": 196,
+    "hdl": 24,
+    "triglycerides": 350,
+    "bmi": 37.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.4,
+    "fasting_glucose": 87,
+    "cholesterol": 136,
+    "ldl": 67,
+    "hdl": 62,
+    "triglycerides": 101,
+    "bmi": 23.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.7,
+    "fasting_glucose": 78,
+    "cholesterol": 161,
+    "ldl": 61,
+    "hdl": 77,
+    "triglycerides": 58,
+    "bmi": 19.6,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 8.4,
+    "fasting_glucose": 144,
+    "cholesterol": 266,
+    "ldl": 173,
+    "hdl": 30,
+    "triglycerides": 271,
+    "bmi": 35.4,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 108,
+    "cholesterol": 222,
+    "ldl": 120,
+    "hdl": 40,
+    "triglycerides": 176,
+    "bmi": 25.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 7.5,
+    "fasting_glucose": 168,
+    "cholesterol": 295,
+    "ldl": 179,
+    "hdl": 20,
+    "triglycerides": 275,
+    "bmi": 33.4,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.2,
+    "fasting_glucose": 75,
+    "cholesterol": 165,
+    "ldl": 65,
+    "hdl": 67,
+    "triglycerides": 58,
+    "bmi": 23.5,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.8,
+    "fasting_glucose": 99,
+    "cholesterol": 182,
+    "ldl": 87,
+    "hdl": 66,
+    "triglycerides": 140,
+    "bmi": 24.2,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.3,
+    "fasting_glucose": 123,
+    "cholesterol": 204,
+    "ldl": 152,
+    "hdl": 49,
+    "triglycerides": 160,
+    "bmi": 28.7,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.6,
+    "fasting_glucose": 140,
+    "cholesterol": 286,
+    "ldl": 169,
+    "hdl": 22,
+    "triglycerides": 399,
+    "bmi": 33.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 119,
+    "cholesterol": 203,
+    "ldl": 146,
+    "hdl": 40,
+    "triglycerides": 184,
+    "bmi": 28.7,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 107,
+    "cholesterol": 228,
+    "ldl": 156,
+    "hdl": 56,
+    "triglycerides": 178,
+    "bmi": 26.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 113,
+    "cholesterol": 238,
+    "ldl": 134,
+    "hdl": 46,
+    "triglycerides": 183,
+    "bmi": 27.8,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 9.3,
+    "fasting_glucose": 242,
+    "cholesterol": 241,
+    "ldl": 194,
+    "hdl": 29,
+    "triglycerides": 340,
+    "bmi": 36.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.5,
+    "fasting_glucose": 87,
+    "cholesterol": 180,
+    "ldl": 87,
+    "hdl": 72,
+    "triglycerides": 70,
+    "bmi": 21.6,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.6,
+    "fasting_glucose": 96,
+    "cholesterol": 126,
+    "ldl": 68,
+    "hdl": 63,
+    "triglycerides": 122,
+    "bmi": 22.8,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 8.4,
+    "fasting_glucose": 183,
+    "cholesterol": 282,
+    "ldl": 183,
+    "hdl": 37,
+    "triglycerides": 204,
+    "bmi": 31.3,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.2,
+    "fasting_glucose": 95,
+    "cholesterol": 165,
+    "ldl": 65,
+    "hdl": 71,
+    "triglycerides": 111,
+    "bmi": 21.6,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 7.3,
+    "fasting_glucose": 216,
+    "cholesterol": 240,
+    "ldl": 178,
+    "hdl": 33,
+    "triglycerides": 377,
+    "bmi": 36.7,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 109,
+    "cholesterol": 225,
+    "ldl": 124,
+    "hdl": 41,
+    "triglycerides": 175,
+    "bmi": 28.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.4,
+    "fasting_glucose": 112,
+    "cholesterol": 214,
+    "ldl": 130,
+    "hdl": 52,
+    "triglycerides": 195,
+    "bmi": 29.8,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.4,
+    "fasting_glucose": 125,
+    "cholesterol": 203,
+    "ldl": 140,
+    "hdl": 54,
+    "triglycerides": 196,
+    "bmi": 26.8,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 119,
+    "cholesterol": 213,
+    "ldl": 112,
+    "hdl": 57,
+    "triglycerides": 164,
+    "bmi": 25.4,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 9.4,
+    "fasting_glucose": 212,
+    "cholesterol": 289,
+    "ldl": 181,
+    "hdl": 32,
+    "triglycerides": 333,
+    "bmi": 34.0,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 109,
+    "cholesterol": 235,
+    "ldl": 159,
+    "hdl": 57,
+    "triglycerides": 151,
+    "bmi": 28.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 8.2,
+    "fasting_glucose": 170,
+    "cholesterol": 299,
+    "ldl": 175,
+    "hdl": 38,
+    "triglycerides": 304,
+    "bmi": 39.4,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 120,
+    "cholesterol": 239,
+    "ldl": 112,
+    "hdl": 45,
+    "triglycerides": 169,
+    "bmi": 27.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 105,
+    "cholesterol": 201,
+    "ldl": 118,
+    "hdl": 57,
+    "triglycerides": 188,
+    "bmi": 25.3,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 7.2,
+    "fasting_glucose": 150,
+    "cholesterol": 241,
+    "ldl": 179,
+    "hdl": 27,
+    "triglycerides": 362,
+    "bmi": 32.6,
+    "risk": "High"
+  },
+  {
+    "hba1c": 8.0,
+    "fasting_glucose": 134,
+    "cholesterol": 290,
+    "ldl": 160,
+    "hdl": 26,
+    "triglycerides": 349,
+    "bmi": 36.4,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 115,
+    "cholesterol": 216,
+    "ldl": 100,
+    "hdl": 59,
+    "triglycerides": 185,
+    "bmi": 26.3,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.5,
+    "fasting_glucose": 83,
+    "cholesterol": 130,
+    "ldl": 50,
+    "hdl": 74,
+    "triglycerides": 114,
+    "bmi": 20.8,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.6,
+    "fasting_glucose": 79,
+    "cholesterol": 172,
+    "ldl": 63,
+    "hdl": 65,
+    "triglycerides": 128,
+    "bmi": 20.2,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 7.2,
+    "fasting_glucose": 203,
+    "cholesterol": 248,
+    "ldl": 200,
+    "hdl": 34,
+    "triglycerides": 349,
+    "bmi": 36.9,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.9,
+    "fasting_glucose": 147,
+    "cholesterol": 286,
+    "ldl": 181,
+    "hdl": 37,
+    "triglycerides": 205,
+    "bmi": 35.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 9.9,
+    "fasting_glucose": 179,
+    "cholesterol": 292,
+    "ldl": 173,
+    "hdl": 23,
+    "triglycerides": 333,
+    "bmi": 38.3,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.6,
+    "fasting_glucose": 84,
+    "cholesterol": 124,
+    "ldl": 75,
+    "hdl": 79,
+    "triglycerides": 235,
+    "bmi": 21.3,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.1,
+    "fasting_glucose": 112,
+    "cholesterol": 200,
+    "ldl": 134,
+    "hdl": 57,
+    "triglycerides": 154,
+    "bmi": 26.7,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 105,
+    "cholesterol": 221,
+    "ldl": 116,
+    "hdl": 43,
+    "triglycerides": 169,
+    "bmi": 28.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.7,
+    "fasting_glucose": 206,
+    "cholesterol": 292,
+    "ldl": 200,
+    "hdl": 22,
+    "triglycerides": 327,
+    "bmi": 35.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 8.8,
+    "fasting_glucose": 200,
+    "cholesterol": 259,
+    "ldl": 197,
+    "hdl": 30,
+    "triglycerides": 388,
+    "bmi": 21.7,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 117,
+    "cholesterol": 229,
+    "ldl": 156,
+    "hdl": 46,
+    "triglycerides": 157,
+    "bmi": 28.4,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 4.9,
+    "fasting_glucose": 70,
+    "cholesterol": 182,
+    "ldl": 92,
+    "hdl": 62,
+    "triglycerides": 146,
+    "bmi": 22.8,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 9.7,
+    "fasting_glucose": 212,
+    "cholesterol": 264,
+    "ldl": 172,
+    "hdl": 29,
+    "triglycerides": 382,
+    "bmi": 37.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.3,
+    "fasting_glucose": 96,
+    "cholesterol": 196,
+    "ldl": 55,
+    "hdl": 74,
+    "triglycerides": 120,
+    "bmi": 20.3,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 125,
+    "cholesterol": 234,
+    "ldl": 132,
+    "hdl": 45,
+    "triglycerides": 158,
+    "bmi": 26.9,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 101,
+    "cholesterol": 202,
+    "ldl": 135,
+    "hdl": 53,
+    "triglycerides": 189,
+    "bmi": 27.7,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.3,
+    "fasting_glucose": 100,
+    "cholesterol": 230,
+    "ldl": 121,
+    "hdl": 46,
+    "triglycerides": 168,
+    "bmi": 26.7,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 8.0,
+    "fasting_glucose": 196,
+    "cholesterol": 243,
+    "ldl": 200,
+    "hdl": 24,
+    "triglycerides": 334,
+    "bmi": 20.9,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.4,
+    "fasting_glucose": 99,
+    "cholesterol": 174,
+    "ldl": 94,
+    "hdl": 62,
+    "triglycerides": 139,
+    "bmi": 23.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 9.2,
+    "fasting_glucose": 230,
+    "cholesterol": 247,
+    "ldl": 160,
+    "hdl": 39,
+    "triglycerides": 293,
+    "bmi": 34.2,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 110,
+    "cholesterol": 236,
+    "ldl": 100,
+    "hdl": 57,
+    "triglycerides": 180,
+    "bmi": 25.9,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 7.8,
+    "fasting_glucose": 210,
+    "cholesterol": 288,
+    "ldl": 193,
+    "hdl": 38,
+    "triglycerides": 356,
+    "bmi": 30.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.1,
+    "fasting_glucose": 106,
+    "cholesterol": 236,
+    "ldl": 116,
+    "hdl": 55,
+    "triglycerides": 192,
+    "bmi": 28.8,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 4.8,
+    "fasting_glucose": 89,
+    "cholesterol": 156,
+    "ldl": 79,
+    "hdl": 63,
+    "triglycerides": 83,
+    "bmi": 22.2,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 100,
+    "cholesterol": 206,
+    "ldl": 129,
+    "hdl": 40,
+    "triglycerides": 192,
+    "bmi": 25.3,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 8.7,
+    "fasting_glucose": 201,
+    "cholesterol": 249,
+    "ldl": 186,
+    "hdl": 28,
+    "triglycerides": 301,
+    "bmi": 32.5,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 117,
+    "cholesterol": 216,
+    "ldl": 109,
+    "hdl": 46,
+    "triglycerides": 177,
+    "bmi": 25.3,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.4,
+    "fasting_glucose": 116,
+    "cholesterol": 202,
+    "ldl": 142,
+    "hdl": 53,
+    "triglycerides": 188,
+    "bmi": 28.5,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 9.7,
+    "fasting_glucose": 163,
+    "cholesterol": 248,
+    "ldl": 186,
+    "hdl": 32,
+    "triglycerides": 325,
+    "bmi": 40.0,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.7,
+    "fasting_glucose": 110,
+    "cholesterol": 233,
+    "ldl": 112,
+    "hdl": 58,
+    "triglycerides": 190,
+    "bmi": 26.8,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 7.1,
+    "fasting_glucose": 160,
+    "cholesterol": 254,
+    "ldl": 173,
+    "hdl": 22,
+    "triglycerides": 339,
+    "bmi": 33.5,
+    "risk": "High"
+  },
+  {
+    "hba1c": 4.5,
+    "fasting_glucose": 79,
+    "cholesterol": 166,
+    "ldl": 72,
+    "hdl": 67,
+    "triglycerides": 90,
+    "bmi": 19.2,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.6,
+    "fasting_glucose": 83,
+    "cholesterol": 140,
+    "ldl": 59,
+    "hdl": 64,
+    "triglycerides": 67,
+    "bmi": 22.6,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 104,
+    "cholesterol": 237,
+    "ldl": 145,
+    "hdl": 58,
+    "triglycerides": 195,
+    "bmi": 26.4,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.5,
+    "fasting_glucose": 93,
+    "cholesterol": 159,
+    "ldl": 67,
+    "hdl": 68,
+    "triglycerides": 113,
+    "bmi": 18.8,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 8.9,
+    "fasting_glucose": 233,
+    "cholesterol": 257,
+    "ldl": 178,
+    "hdl": 39,
+    "triglycerides": 228,
+    "bmi": 31.4,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.2,
+    "fasting_glucose": 70,
+    "cholesterol": 131,
+    "ldl": 75,
+    "hdl": 66,
+    "triglycerides": 96,
+    "bmi": 22.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.6,
+    "fasting_glucose": 79,
+    "cholesterol": 191,
+    "ldl": 70,
+    "hdl": 63,
+    "triglycerides": 226,
+    "bmi": 19.7,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.6,
+    "fasting_glucose": 241,
+    "cholesterol": 279,
+    "ldl": 176,
+    "hdl": 39,
+    "triglycerides": 277,
+    "bmi": 39.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.0,
+    "fasting_glucose": 85,
+    "cholesterol": 126,
+    "ldl": 90,
+    "hdl": 60,
+    "triglycerides": 99,
+    "bmi": 21.6,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.4,
+    "fasting_glucose": 96,
+    "cholesterol": 141,
+    "ldl": 86,
+    "hdl": 71,
+    "triglycerides": 70,
+    "bmi": 24.0,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 7.1,
+    "fasting_glucose": 238,
+    "cholesterol": 298,
+    "ldl": 171,
+    "hdl": 35,
+    "triglycerides": 380,
+    "bmi": 32.7,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 102,
+    "cholesterol": 231,
+    "ldl": 109,
+    "hdl": 42,
+    "triglycerides": 183,
+    "bmi": 29.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 109,
+    "cholesterol": 221,
+    "ldl": 117,
+    "hdl": 40,
+    "triglycerides": 160,
+    "bmi": 26.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.3,
+    "fasting_glucose": 121,
+    "cholesterol": 239,
+    "ldl": 114,
+    "hdl": 50,
+    "triglycerides": 161,
+    "bmi": 29.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.3,
+    "fasting_glucose": 109,
+    "cholesterol": 212,
+    "ldl": 118,
+    "hdl": 46,
+    "triglycerides": 170,
+    "bmi": 28.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 4.9,
+    "fasting_glucose": 84,
+    "cholesterol": 168,
+    "ldl": 64,
+    "hdl": 74,
+    "triglycerides": 135,
+    "bmi": 24.8,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.8,
+    "fasting_glucose": 85,
+    "cholesterol": 199,
+    "ldl": 72,
+    "hdl": 62,
+    "triglycerides": 80,
+    "bmi": 20.5,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 120,
+    "cholesterol": 205,
+    "ldl": 115,
+    "hdl": 47,
+    "triglycerides": 157,
+    "bmi": 27.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 109,
+    "cholesterol": 218,
+    "ldl": 122,
+    "hdl": 40,
+    "triglycerides": 176,
+    "bmi": 25.6,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 8.0,
+    "fasting_glucose": 234,
+    "cholesterol": 277,
+    "ldl": 182,
+    "hdl": 37,
+    "triglycerides": 226,
+    "bmi": 37.9,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 112,
+    "cholesterol": 207,
+    "ldl": 114,
+    "hdl": 58,
+    "triglycerides": 193,
+    "bmi": 29.4,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 4.8,
+    "fasting_glucose": 98,
+    "cholesterol": 133,
+    "ldl": 59,
+    "hdl": 64,
+    "triglycerides": 126,
+    "bmi": 21.2,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 125,
+    "cholesterol": 225,
+    "ldl": 129,
+    "hdl": 57,
+    "triglycerides": 183,
+    "bmi": 28.3,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 7.4,
+    "fasting_glucose": 203,
+    "cholesterol": 297,
+    "ldl": 198,
+    "hdl": 37,
+    "triglycerides": 323,
+    "bmi": 34.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 111,
+    "cholesterol": 201,
+    "ldl": 123,
+    "hdl": 47,
+    "triglycerides": 178,
+    "bmi": 28.0,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.7,
+    "fasting_glucose": 203,
+    "cholesterol": 248,
+    "ldl": 160,
+    "hdl": 29,
+    "triglycerides": 304,
+    "bmi": 40.0,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.4,
+    "fasting_glucose": 90,
+    "cholesterol": 144,
+    "ldl": 93,
+    "hdl": 60,
+    "triglycerides": 80,
+    "bmi": 20.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 103,
+    "cholesterol": 234,
+    "ldl": 143,
+    "hdl": 55,
+    "triglycerides": 161,
+    "bmi": 26.5,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.3,
+    "fasting_glucose": 85,
+    "cholesterol": 146,
+    "ldl": 51,
+    "hdl": 74,
+    "triglycerides": 126,
+    "bmi": 20.5,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.8,
+    "fasting_glucose": 222,
+    "cholesterol": 290,
+    "ldl": 168,
+    "hdl": 27,
+    "triglycerides": 273,
+    "bmi": 31.9,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.4,
+    "fasting_glucose": 84,
+    "cholesterol": 171,
+    "ldl": 98,
+    "hdl": 76,
+    "triglycerides": 87,
+    "bmi": 21.1,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 9.8,
+    "fasting_glucose": 165,
+    "cholesterol": 250,
+    "ldl": 186,
+    "hdl": 22,
+    "triglycerides": 331,
+    "bmi": 39.2,
+    "risk": "High"
+  },
+  {
+    "hba1c": 9.3,
+    "fasting_glucose": 243,
+    "cholesterol": 274,
+    "ldl": 162,
+    "hdl": 39,
+    "triglycerides": 325,
+    "bmi": 35.7,
+    "risk": "High"
+  },
+  {
+    "hba1c": 7.3,
+    "fasting_glucose": 174,
+    "cholesterol": 269,
+    "ldl": 182,
+    "hdl": 33,
+    "triglycerides": 305,
+    "bmi": 39.4,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.3,
+    "fasting_glucose": 107,
+    "cholesterol": 234,
+    "ldl": 122,
+    "hdl": 50,
+    "triglycerides": 170,
+    "bmi": 25.0,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 116,
+    "cholesterol": 200,
+    "ldl": 115,
+    "hdl": 42,
+    "triglycerides": 162,
+    "bmi": 25.1,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.2,
+    "fasting_glucose": 72,
+    "cholesterol": 198,
+    "ldl": 50,
+    "hdl": 75,
+    "triglycerides": 146,
+    "bmi": 23.3,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 8.3,
+    "fasting_glucose": 184,
+    "cholesterol": 259,
+    "ldl": 161,
+    "hdl": 30,
+    "triglycerides": 263,
+    "bmi": 20.6,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.9,
+    "fasting_glucose": 193,
+    "cholesterol": 300,
+    "ldl": 192,
+    "hdl": 38,
+    "triglycerides": 305,
+    "bmi": 37.2,
+    "risk": "High"
+  },
+  {
+    "hba1c": 7.6,
+    "fasting_glucose": 209,
+    "cholesterol": 299,
+    "ldl": 165,
+    "hdl": 21,
+    "triglycerides": 200,
+    "bmi": 35.0,
+    "risk": "High"
+  },
+  {
+    "hba1c": 5.9,
+    "fasting_glucose": 117,
+    "cholesterol": 211,
+    "ldl": 140,
+    "hdl": 40,
+    "triglycerides": 174,
+    "bmi": 28.1,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.9,
+    "fasting_glucose": 144,
+    "cholesterol": 281,
+    "ldl": 185,
+    "hdl": 25,
+    "triglycerides": 383,
+    "bmi": 38.5,
+    "risk": "High"
+  },
+  {
+    "hba1c": 4.6,
+    "fasting_glucose": 76,
+    "cholesterol": 171,
+    "ldl": 66,
+    "hdl": 61,
+    "triglycerides": 256,
+    "bmi": 21.3,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 111,
+    "cholesterol": 236,
+    "ldl": 107,
+    "hdl": 49,
+    "triglycerides": 168,
+    "bmi": 28.3,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 4.9,
+    "fasting_glucose": 79,
+    "cholesterol": 168,
+    "ldl": 61,
+    "hdl": 74,
+    "triglycerides": 138,
+    "bmi": 19.0,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 7.9,
+    "fasting_glucose": 179,
+    "cholesterol": 259,
+    "ldl": 185,
+    "hdl": 28,
+    "triglycerides": 359,
+    "bmi": 35.8,
+    "risk": "High"
+  },
+  {
+    "hba1c": 4.7,
+    "fasting_glucose": 70,
+    "cholesterol": 146,
+    "ldl": 85,
+    "hdl": 72,
+    "triglycerides": 113,
+    "bmi": 20.1,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.3,
+    "fasting_glucose": 123,
+    "cholesterol": 226,
+    "ldl": 122,
+    "hdl": 52,
+    "triglycerides": 150,
+    "bmi": 29.5,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 5.8,
+    "fasting_glucose": 103,
+    "cholesterol": 212,
+    "ldl": 108,
+    "hdl": 43,
+    "triglycerides": 182,
+    "bmi": 29.5,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.4,
+    "fasting_glucose": 108,
+    "cholesterol": 204,
+    "ldl": 151,
+    "hdl": 49,
+    "triglycerides": 164,
+    "bmi": 25.1,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 8.4,
+    "fasting_glucose": 142,
+    "cholesterol": 255,
+    "ldl": 185,
+    "hdl": 37,
+    "triglycerides": 246,
+    "bmi": 38.1,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.0,
+    "fasting_glucose": 105,
+    "cholesterol": 213,
+    "ldl": 101,
+    "hdl": 57,
+    "triglycerides": 198,
+    "bmi": 26.5,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 4.8,
+    "fasting_glucose": 72,
+    "cholesterol": 165,
+    "ldl": 51,
+    "hdl": 70,
+    "triglycerides": 80,
+    "bmi": 23.4,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 4.7,
+    "fasting_glucose": 99,
+    "cholesterol": 175,
+    "ldl": 55,
+    "hdl": 72,
+    "triglycerides": 91,
+    "bmi": 24.9,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 5.2,
+    "fasting_glucose": 86,
+    "cholesterol": 122,
+    "ldl": 72,
+    "hdl": 63,
+    "triglycerides": 132,
+    "bmi": 19.7,
+    "risk": "Low"
+  },
+  {
+    "hba1c": 6.1,
+    "fasting_glucose": 109,
+    "cholesterol": 205,
+    "ldl": 115,
+    "hdl": 40,
+    "triglycerides": 193,
+    "bmi": 28.2,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 6.9,
+    "fasting_glucose": 192,
+    "cholesterol": 299,
+    "ldl": 185,
+    "hdl": 39,
+    "triglycerides": 397,
+    "bmi": 38.9,
+    "risk": "High"
+  },
+  {
+    "hba1c": 6.2,
+    "fasting_glucose": 121,
+    "cholesterol": 206,
+    "ldl": 102,
+    "hdl": 52,
+    "triglycerides": 173,
+    "bmi": 27.9,
+    "risk": "Medium"
+  },
+  {
+    "hba1c": 4.7,
+    "fasting_glucose": 93,
+    "cholesterol": 128,
+    "ldl": 98,
+    "hdl": 60,
+    "triglycerides": 107,
+    "bmi": 22.1,
+    "risk": "Low"
+  }
+]
